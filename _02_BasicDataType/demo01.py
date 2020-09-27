@@ -22,8 +22,12 @@ print(name)
 """
 多个变量赋值
 Python允许你同时为多个变量赋值。例如：
+以上实例，创建一个整型对象，值为 1，从后向前赋值，三个变量被赋予相同的数值
 """
 a = b = c = 1
+
+# 也可以为多个对象指定多个变量
+d, e, f = 1, 2, "runoob"
 
 """
 标准数据类型
@@ -34,9 +38,9 @@ String（字符串）
 List（列表）
 Tuple（元组）
 Set（集合）
-PythonDictionary（字典）
+Dictionary（字典）
 Python3 的六个标准数据类型中：
 
 不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
-可变数据（3 个）：List（列表）、PythonDictionary（字典）、Set（集合）。
+可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
 """
