@@ -1,0 +1,16 @@
+# -*- coding: UTF-8 -*-
+# author: chen_yong_jun
+
+item_one = "Hello"
+item_two = " Welcome"
+item_third = " to Python!"
+# 多行语句
+# Python 通常是一行写完一条语句，但如果语句很长，我们可以使用反斜杠(\)来实现多行语句
+total = item_one + \
+        item_two + \
+        item_third
+print(total)
+# 在 [], {}, 或 () 中的多行语句，不需要使用反斜杠(\)
+total_all = ['item_one', 'item_two', 'item_three',
+             'item_four', 'item_five']
+print(total_all)
