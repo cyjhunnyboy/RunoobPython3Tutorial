@@ -3,17 +3,17 @@
 
 '''
 Python dict() 函数
-描述：dict() 函数用于创建一个字典
+描述：
+    dict() 函数用于创建一个字典
 语法：
-class dict(**kwarg)
-class dict(mapping, **kwarg)
-class dict(iterable, **kwarg)
-参数说明：
-**kwargs -- 关键字
-mapping -- 元素的容器。
-iterable -- 可迭代对象。
-返回值：
-返回一个字典
+    class dict(**kwarg)
+    class dict(mapping, **kwarg)
+    class dict(iterable, **kwarg)
+    参数说明：
+        **kwargs -- 关键字
+        mapping -- 元素的容器。
+        iterable -- 可迭代对象。
+返回值：返回一个字典
 '''
 # 创建空字典
 dict1 = dict()

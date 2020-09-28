@@ -3,12 +3,14 @@
 
 '''
 Python setattr() 函数
-描述：setattr() 函数对应函数 getattr()，用于设置属性值，该属性不一定是存在的。
-语法：setattr(object, name, value)
-参数：
-object -- 对象。
-name -- 字符串，对象属性。
-value -- 属性值。
+描述：
+    setattr() 函数对应函数 getattr()，用于设置属性值，该属性不一定是存在的。
+语法：
+    setattr(object, name, value)
+    参数：
+        object -- 对象。
+        name -- 字符串，对象属性。
+        value -- 属性值。
 返回值：无
 '''
 class A(object):

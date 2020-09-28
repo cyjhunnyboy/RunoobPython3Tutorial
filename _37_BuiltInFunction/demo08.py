@@ -3,11 +3,13 @@
 
 '''
 Python getattr() 函数
-描述：getattr() 函数对应函数 setattr()，用于获取属性值，该属性不一定是存在的。
-语法：getattr(object, name)
-参数：
-object -- 对象。
-name -- 字符串，对象属性。
+描述：
+    getattr() 函数对应函数 setattr()，用于获取属性值，该属性不一定是存在的。
+语法：
+    getattr(object, name)
+    参数：
+        object -- 对象。
+        name -- 字符串，对象属性。
 返回值：对象属性的值
 '''
 class A(object):

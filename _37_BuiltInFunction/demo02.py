@@ -3,9 +3,9 @@
 
 '''
 Python fabs() 与 abs() 区别
-Python 中 fabs(x) 方法返回 x 的绝对值。虽然类似于 abs() 函数，但是两个函数之间存在以下差异：
-abs() 是一个内置函数，而 fabs() 在 math 模块中定义的
-fabs() 函数只适用于 float 和 integer 类型，而 abs() 也适用于复数。
+    Python 中 fabs(x) 方法返回 x 的绝对值。虽然类似于 abs() 函数，但是两个函数之间存在以下差异：
+    abs() 是一个内置函数，而 fabs() 在 math 模块中定义的
+    fabs() 函数只适用于 float 和 integer 类型，而 abs() 也适用于复数。
 '''
 import math
 
