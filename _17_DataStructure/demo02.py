@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 将列表当做堆栈使用
 列表方法使得列表可以很方便的作为一个堆栈来使用，堆栈作为特定的数据结构，最先进入的元素最后一个被释放（后进先出）。用 append()

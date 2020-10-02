@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 for n in range(2, 10):
     for x in range(2, n):

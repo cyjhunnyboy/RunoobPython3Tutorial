@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isspace()方法
 isspace() 方法检测字符串是否只由空白字符组成

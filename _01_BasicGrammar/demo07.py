@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 """
 数字(Number)类型

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 lstrip()方法
 lstrip() 方法用于截掉字符串左边的空格或指定字符

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python oct()函数
 描述: oct() 函数将一个整数转换成8进制字符串

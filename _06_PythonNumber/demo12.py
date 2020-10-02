@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 log() 函数
 描述：log() 方法返回x的自然对数，x > 0

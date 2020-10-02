@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 shuffle() 函数
 描述：shuffle() 方法将序列的所有元素随机排序

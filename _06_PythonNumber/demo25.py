@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 asin()函数
 描述：asin()返回x的反正弦弧度值

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python repr() 函数
 描述: repr() 函数将对象转化为供解释器读取的形式

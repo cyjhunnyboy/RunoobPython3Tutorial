@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 re.search方法
 描述：扫描整个字符串并返回第一个成功的匹配

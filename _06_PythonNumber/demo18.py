@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 sqrt() 函数
 描述：sqrt() 方法返回数字x的平方根

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isnumeric()方法
 isnumeric() 方法检测字符串是否只由数字组成。这种方法是只针对unicode对象

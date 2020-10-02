@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # Python 字典 copy() 函数返回一个字典的浅复制
 dict1 = {'Name': 'Runoob', 'Age': 7, 'Class': 'First'}

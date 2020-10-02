@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 # 另一种方式是迭代一个文件对象然后读取每行
 
 # 打开一个文件

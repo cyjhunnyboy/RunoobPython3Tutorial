@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 
 # 加了星号 * 的参数会以元组(tuple)的形式导入，存放所有未命名的变量参数

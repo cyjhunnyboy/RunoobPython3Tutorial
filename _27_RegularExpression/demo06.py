@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 检索和替换
 Python 的re模块提供了re.sub用于替换字符串中的匹配项

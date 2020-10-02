@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isdigit()方法
 isdigit() 方法检测字符串是否只由数字组成

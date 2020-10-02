@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 join()方法
 join() 方法用于将序列中的元素以指定的字符连接生成一个新的字符串

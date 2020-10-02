@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 time.mktime(tupletime)
 接受时间元组并返回时间辍（1970纪元后经过的浮点秒数）。

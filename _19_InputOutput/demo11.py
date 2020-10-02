@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 # 如果要写入一些不是字符串的东西, 那么将需要先进行转换
 
 # 打开一个文件

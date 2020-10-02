@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 log10() 函数
 描述：log10() 方法返回以10为基数的x对数，x>0

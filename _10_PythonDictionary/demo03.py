@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 修改字典
 向字典添加新内容的方法是增加新的键/值对，修改或删除已有键/值对

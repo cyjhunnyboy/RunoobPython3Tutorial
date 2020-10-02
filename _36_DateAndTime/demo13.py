@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 time.sleep(secs)
 推迟调用线程的运行，secs指秒数。

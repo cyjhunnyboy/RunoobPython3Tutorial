@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 languages = ["C", "C++", "Perl", "Python"]
 for language in languages:

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 ceil() 函数
 描述：ceil(x) 函数返回一个大于或等于 x 的的最小整数, 返回数字的上入整数，如math.ceil(4.1) 返回 5

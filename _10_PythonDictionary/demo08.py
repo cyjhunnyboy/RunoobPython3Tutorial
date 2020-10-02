@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python 字典 clear() 函数用于删除字典内所有元素。
 语法：

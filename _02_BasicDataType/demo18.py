@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python frozenset()函数
 描述: frozenset() 返回一个冻结的集合，冻结后集合不能再添加或删除任何元素

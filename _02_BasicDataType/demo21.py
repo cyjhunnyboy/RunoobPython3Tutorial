@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python hex()函数
 描述: hex()函数用于将10进制整数转换成16进制，以字符串形式表示

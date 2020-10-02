@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # 您可以通过使用del语句删除单个或多个对象的引用
 var = 10

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python chr()函数
 描述: chr()用一个范围在 range（256）内的（就是0～255）整数作参数，返回一个对应的字符

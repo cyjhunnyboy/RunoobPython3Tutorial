@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 更新列表
 你可以对列表的数据项进行修改或更新，你也可以使用append()方法来添加列表项

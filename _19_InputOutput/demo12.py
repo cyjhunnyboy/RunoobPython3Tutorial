@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 f.tell()
 f.tell() 返回文件对象当前所处的位置, 它是从文件开头开始算起的字节数。

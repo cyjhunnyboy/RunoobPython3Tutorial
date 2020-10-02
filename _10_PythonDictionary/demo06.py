@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # 遍历字典
 dict_aa = {'Name': 'Runoob', 'Age': 7, 'Class': 'First'}

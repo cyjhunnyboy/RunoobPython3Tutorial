@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 f.readlines()
 f.readlines() 将返回该文件中包含的所有行。

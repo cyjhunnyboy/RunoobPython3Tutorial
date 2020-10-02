@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 pickle 模块
 python的pickle模块实现了基本的数据序列和反序列化。

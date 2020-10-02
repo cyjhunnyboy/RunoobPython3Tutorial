@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # 行与缩进
 # python最具特色的就是使用缩进来表示代码块，不需要使用大括号 {} 。

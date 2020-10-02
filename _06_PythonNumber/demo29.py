@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 hypot()函数
 描述：hypot()返回欧几里德范数 sqrt(x*x + y*y)

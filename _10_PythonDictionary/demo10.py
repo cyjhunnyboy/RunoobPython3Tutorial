@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # 直接赋值和 copy 的区别
 dict1 = {'user': 'runoob', 'num': [1, 2, 3]}

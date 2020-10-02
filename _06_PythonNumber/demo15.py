@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 min() 函数
 描述：min()方法返回给定参数的最小值，参数可以为序列

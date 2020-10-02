@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 还有一个方法，也可以添加元素，且参数可以是列表，元组，字典等，语法格式
 s.update( x )

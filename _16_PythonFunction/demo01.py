@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 函数
 函数是组织好的，可重复使用的，用来实现单一，或相关联功能的代码段。

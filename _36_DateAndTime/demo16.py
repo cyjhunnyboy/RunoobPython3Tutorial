@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 time tzset()方法
 描述：Python time tzset() 根据环境变量TZ重新初始化时间相关设置

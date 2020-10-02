@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python三引号
 python三引号允许一个字符串跨多行，字符串中可以包含换行符、制表符以及其他特殊字符

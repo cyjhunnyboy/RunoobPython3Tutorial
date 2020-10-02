@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 # 多行注释可以用多个 # 号，还有 ''' 和 """：
 

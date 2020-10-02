@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 uniform() 函数
 描述：uniform() 方法将随机生成下一个实数，它在[x,y]范围内

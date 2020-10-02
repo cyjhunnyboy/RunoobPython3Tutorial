@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 import shutil
 
 # 针对日常的文件和目录管理任务，:mod:shutil 模块提供了一个易于使用的高级接口

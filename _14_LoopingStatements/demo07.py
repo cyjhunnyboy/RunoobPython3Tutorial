@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 for letter in 'Runoob':  # 第一个实例
     if letter == 'b':

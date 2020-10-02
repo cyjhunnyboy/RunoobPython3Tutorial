@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isalpha()方法
 isalpha() 方法检测字符串是否只由字母组成

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 删除字典元素
 能删单一的元素也能清空字典，清空只需一项操作。

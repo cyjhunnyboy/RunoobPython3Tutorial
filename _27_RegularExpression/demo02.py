@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 re.match函数
 描述：尝试从字符串的起始位置匹配一个模式，如果不是起始位置匹配成功的话，match()就返回none

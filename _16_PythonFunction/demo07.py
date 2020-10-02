@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 
 # 加了两个星号 ** 的参数会以字典的形式导入

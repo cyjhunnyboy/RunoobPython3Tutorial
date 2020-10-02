@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isalnum()方法
 isalnum() 方法检测字符串是否由字母和数字组成

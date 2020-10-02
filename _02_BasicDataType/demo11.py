@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python str() 函数
 描述: str() 函数将对象转化为适于人阅读的形式

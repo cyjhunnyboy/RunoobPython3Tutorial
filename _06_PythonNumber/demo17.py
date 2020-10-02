@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 round() 函数
 描述：round()方法返回浮点数x的四舍五入值

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 isupper()方法
 isupper() 方法检测字符串中所有的字母是否都为大写

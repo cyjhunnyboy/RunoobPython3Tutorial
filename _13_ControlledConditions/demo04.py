@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 num = int(input("输入一个数字："))
 if num % 2 == 0:

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 读和写文件
 open() 将会返回一个 file 对象，基本语法格式如下

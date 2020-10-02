@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 import os
 
 # os.chdir('/server/accesslogs')   # 修改当前的工作目录

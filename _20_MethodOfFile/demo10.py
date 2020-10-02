@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 tell() 方法返回文件的当前位置，即文件指针当前位置
 tell() 方法语法如下：

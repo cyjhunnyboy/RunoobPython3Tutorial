@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 文件对象的方法
 本节中剩下的例子假设已经创建了一个称为 f 的文件对象。

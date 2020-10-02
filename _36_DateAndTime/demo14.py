@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 time.strftime(fmt[,tupletime])
 接收以时间元组，并返回以可读字符串表示的当地时间，格式由fmt决定。

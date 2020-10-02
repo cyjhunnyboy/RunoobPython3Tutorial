@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 with open("tmp/foo.txt", "r+") as f:
     s = f.read()

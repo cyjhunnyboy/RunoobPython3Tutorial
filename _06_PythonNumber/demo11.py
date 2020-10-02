@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 floor() 函数
 描述：floor(x) 返回数字的下舍整数，小于或等于 x

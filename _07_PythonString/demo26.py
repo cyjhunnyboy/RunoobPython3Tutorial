@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 len()方法
 len() 方法返回对象（字符、列表、元组等）长度或项目个数

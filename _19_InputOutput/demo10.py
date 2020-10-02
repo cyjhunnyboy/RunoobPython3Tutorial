@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 f.write()
 f.write(string) 将 string 写入到文件中, 然后返回写入的字符数

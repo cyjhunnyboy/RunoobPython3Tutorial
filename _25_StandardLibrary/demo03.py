@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 import glob
 
 # glob模块提供了一个函数用于从目录通配符搜索中生成文件列表

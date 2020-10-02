@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 randrange() 函数
 描述：randrange() 方法返回指定递增基数集合中的一个随机数，基数缺省值为1

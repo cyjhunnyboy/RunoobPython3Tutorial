@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 max() 函数
 描述：max()方法返回给定参数的最大值，参数可以为序列

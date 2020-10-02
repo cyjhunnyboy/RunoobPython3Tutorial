@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 lower()方法
 lower() 方法转换字符串中所有大写字符为小写

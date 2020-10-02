@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python eval() 函数
 描述: eval() 函数用来执行一个字符串表达式，并返回表达式的值

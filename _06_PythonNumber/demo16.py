@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python3 pow() 函数
 描述：pow() 方法返回 xy（x的y次方） 的值

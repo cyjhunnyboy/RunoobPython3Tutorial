@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 """
 Python 访问字符串中的值
 Python 不支持单字符类型，单字符在 Python 中也是作为一个字符串使用。

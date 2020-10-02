@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# author: chen_yong_jun
+# author: chenyongjun
 
 a = [66.25, 333, 333, 1, 1234.5]
 # 返回 x 在列表中出现的次数
