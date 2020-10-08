@@ -18,6 +18,7 @@ Python property() 函数
 
 
 class Parrot(object):
+
     def __init__(self):
         self._voltage = 100000
 
