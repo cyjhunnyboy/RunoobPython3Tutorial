@@ -15,6 +15,8 @@ Python super() 函数
 
     Python3.x 和 Python2.x 的一个区别是: Python 3 可以使用直接使用 super().xxx 代替 super(Class, self).xxx
 '''
+
+
 class Parent:
 
     def add(self, x):
@@ -29,6 +31,7 @@ class Child(Parent):
         super().add(x)
 
 
-child = Child()
-# 结果为3
-child.add(2)
+if __name__ == "__main__":
+    child = Child()
+    # 结果为3
+    child.add(2)

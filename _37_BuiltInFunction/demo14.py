@@ -19,20 +19,21 @@ Python any() 函数
 返回值：
     如果都为空、0、false，则返回false，如果不都为空、0、false，则返回true
 '''
-# 列表list，元素都不为空或0
-print(any(['a', 'b', 'c', 'd']))
-# 列表list，存在一个为空的元素
-print(any(['a', 'b', '', 'd']))
-# 列表list,元素全为0,'',false
-print(any([0, '', False]) )
-# 空列表
-print(any([]))
+if __name__ == "__main__":
+    # 列表list，元素都不为空或0
+    print(any(['a', 'b', 'c', 'd']))
+    # 列表list，存在一个为空的元素
+    print(any(['a', 'b', '', 'd']))
+    # 列表list,元素全为0,'',false
+    print(any([0, '', False]))
+    # 空列表
+    print(any([]))
 
-# 元组tuple，元素都不为空或0
-print(any(('a', 'b', 'c', 'd')))
-# 元组tuple，存在一个为空的元素
-print(any(('a', 'b', '', 'd')))
-# 元组tuple，元素全为0,'',false
-print(any((0, '', False)))
-# 空元组
-print(any(()))
+    # 元组tuple，元素都不为空或0
+    print(any(('a', 'b', 'c', 'd')))
+    # 元组tuple，存在一个为空的元素
+    print(any(('a', 'b', '', 'd')))
+    # 元组tuple，元素全为0,'',false
+    print(any((0, '', False)))
+    # 空元组
+    print(any(()))

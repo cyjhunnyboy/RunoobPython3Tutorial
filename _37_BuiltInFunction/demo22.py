@@ -16,6 +16,8 @@ Python staticmethod() 函数
     staticmethod(function)
     参数说明：无
 '''
+
+
 class C(object):
 
     @staticmethod
@@ -23,8 +25,9 @@ class C(object):
         print("runoob")
 
 
-# 静态方法无需实例化
-C.f()
-# 也可以实例化后调用
-cobj = C()
-cobj.f()
+if __name__ == "__main__":
+    # 静态方法无需实例化
+    C.f()
+    # 也可以实例化后调用
+    cobj = C()
+    cobj.f()

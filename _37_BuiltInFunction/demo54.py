@@ -16,9 +16,10 @@ Python frozenset() 函数
 那么它的实例就不能放在另一个集合中（set中的元素必须是不可变类型）。所以，frozenset提供了不可变的集合的功能，
 当集合不可变时，它就满足了作为集合中的元素的要求，就可以放在另一个集合中了
 '''
-# 生成一个新的不可变集合
-a = frozenset(range(10))
-print(a)
+if __name__ == "__main__":
+    # 生成一个新的不可变集合
+    a = frozenset(range(10))
+    print(a)
 
-b = frozenset('runoob')
-print(b)
+    b = frozenset('runoob')
+    print(b)

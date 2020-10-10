@@ -14,8 +14,9 @@ Python getattr() 函数
 返回值：
     返回对象属性值
 '''
-class A(object):
 
+
+class A(object):
     bar = 1
 
 

@@ -14,6 +14,7 @@ Python iter() 函数
 返回值：
     迭代器对象
 '''
-list_1 = [1, 2, 3, 4, 5, 6]
-for i in iter(list_1):
-    print(i)
+if __name__ == "__main__":
+    list_1 = [1, 2, 3, 4, 5, 6]
+    for i in iter(list_1):
+        print(i)

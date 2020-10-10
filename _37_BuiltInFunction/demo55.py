@@ -13,10 +13,11 @@ Python3 List list()方法
 返回值：
     返回列表
 '''
-aTuple = (123, 'Google', 'Runoob', 'Taobao')
-list1 = list(aTuple)
-print("列表元素：", list1)
+if __name__ == "__main__":
+    aTuple = (123, 'Google', 'Runoob', 'Taobao')
+    list1 = list(aTuple)
+    print("列表元素：", list1)
 
-str1 = "Hello World"
-list2 = list(str1)
-print("列表元素：", list2)
+    str1 = "Hello World"
+    list2 = list(str1)
+    print("列表元素：", list2)

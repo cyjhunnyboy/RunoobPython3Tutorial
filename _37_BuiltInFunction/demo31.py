@@ -13,5 +13,6 @@ Python3 ord() 函数
 返回值：
     返回值是对应的十进制整数
 '''
-print(ord("a"))
-print(ord("€"))
+if __name__ == "__main__":
+    print(ord("a"))
+    print(ord("€"))

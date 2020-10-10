@@ -2,7 +2,6 @@
 # author: chenyongjun
 
 class A(object):
-
     # 属性默认为类属性（可以给直接被类本身调用）
     num = "类属性"
 

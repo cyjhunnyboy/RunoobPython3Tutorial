@@ -11,5 +11,6 @@
 # object -- 对象
 # 返回值：
 # 返回字符串
-str1 = "runoob"
-print(ascii(str1))
+if __name__ == "__main__":
+    str1 = "runoob"
+    print(ascii(str1))

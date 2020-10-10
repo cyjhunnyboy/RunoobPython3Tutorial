@@ -12,6 +12,7 @@ Python3 oct() 函数
 返回值：
     返回 8 进制字符串
 '''
-print(oct(10))
-print(oct(20))
-print(oct(15))
+if __name__ == "__main__":
+    print(oct(10))
+    print(oct(20))
+    print(oct(15))

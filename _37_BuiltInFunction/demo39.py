@@ -16,10 +16,11 @@ Python3 bytes 函数
 返回值：
     返回一个新的 bytes 对象
 '''
-byte_1 = bytes([1,2,3,4])
-print(byte_1)
-print(type(byte_1))
+if __name__ == "__main__":
+    byte_1 = bytes([1, 2, 3, 4])
+    print(byte_1)
+    print(type(byte_1))
 
-byte_2 = bytes('hello','ascii')
-print(byte_2)
-print(type(byte_2))
+    byte_2 = bytes('hello', 'ascii')
+    print(byte_2)
+    print(type(byte_2))

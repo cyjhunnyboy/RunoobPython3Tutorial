@@ -43,7 +43,8 @@ Python3 open() 函数
 
     默认为文本模式，如果要以二进制模式打开，加上 b
 '''
-f = open("test.txt", mode="r")
-str_1 = f.read()
-f.close()
-print(str_1)
+if __name__ == "__main__":
+    f = open("test.txt", mode="r")
+    str_1 = f.read()
+    f.close()
+    print(str_1)

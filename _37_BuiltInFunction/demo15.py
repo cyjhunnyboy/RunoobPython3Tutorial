@@ -17,7 +17,8 @@ Python3 divmod() 函数
         3、如果 a % b 的求余结果不为 0 ，则余数的正负符号跟参数 b 是一样的，
            若 b 是正数，余数为正数，若 b 为负数，余数也为负数，并且 0 <= abs(a % b) < abs(b)
 '''
-print(divmod(7, 2))
-print(divmod(8, 2))
-print(divmod(8, -2))
-print(divmod(3, 1.3))
+if __name__ == "__main__":
+    print(divmod(7, 2))
+    print(divmod(8, 2))
+    print(divmod(8, -2))
+    print(divmod(3, 1.3))

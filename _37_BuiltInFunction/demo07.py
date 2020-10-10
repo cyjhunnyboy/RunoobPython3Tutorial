@@ -14,14 +14,17 @@ Python setattr() 函数
 返回值：
     无
 '''
+
+
 class A(object):
     bar = 1
 
 
-a = A()
-#  # 获取属性 bar 值
-getattr(a, "bar")
-print(a.bar)
-# 设置属性 bar 值
-setattr(a, 'bar', 5)
-print(a.bar)
+if __name__ == "__main__":
+    a = A()
+    # 获取属性 bar 值
+    getattr(a, "bar")
+    print(a.bar)
+    # 设置属性 bar 值
+    setattr(a, 'bar', 5)
+    print(a.bar)

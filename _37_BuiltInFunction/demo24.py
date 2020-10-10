@@ -14,8 +14,9 @@ Python eval() 函数
 返回值：
     返回表达式计算结果
 '''
-x = 7
-print(eval("3 * x"))
-print(eval("pow(2, 2)"))
-n = 81
-print(eval("n + 4"))
+if __name__ == "__main__":
+    x = 7
+    print(eval("3 * x"))
+    print(eval("pow(2, 2)"))
+    n = 81
+    print(eval("n + 4"))

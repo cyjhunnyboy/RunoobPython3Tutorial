@@ -13,12 +13,16 @@ Python issubclass() 函数
 返回值：
     如果 class 是 classinfo 的子类返回 True，否则返回 False
 '''
+
+
 class A:
     pass
+
 
 class B(A):
     pass
 
 
-# 返回 True
-print(issubclass(B, A))
+if __name__ == "__main__":
+    # 返回 True
+    print(issubclass(B, A))

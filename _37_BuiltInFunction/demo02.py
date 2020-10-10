@@ -9,16 +9,17 @@ Python fabs() 与 abs() 区别
 '''
 import math
 
-a = -1
-b = -1.3232
-c = b
-d = 1 + 1.0j
-e = 3 + 4.0j
-print("a的绝对值是:", abs(a))
-print("b的绝对值是:", abs(b))
-print("c的绝对值是:", math.fabs(c))
-print("d的的绝对值是:", abs(d))
-print("e的绝对值是:", abs(e))
-# TypeError: can't convert complex to float
-# fabs 无法将复数转换为浮点型
-# print ("e的绝对值是:", math.fabs(e))
+if __name__ == "__main__":
+    a = -1
+    b = -1.3232
+    c = b
+    d = 1 + 1.0j
+    e = 3 + 4.0j
+    print("a的绝对值是：", abs(a))
+    print("b的绝对值是：", abs(b))
+    print("c的绝对值是：", math.fabs(c))
+    print("d的的绝对值是：", abs(d))
+    print("e的绝对值是：", abs(e))
+    # TypeError: can't convert complex to float
+    # fabs 无法将复数转换为浮点型
+    print ("e的绝对值是：", math.fabs(e))

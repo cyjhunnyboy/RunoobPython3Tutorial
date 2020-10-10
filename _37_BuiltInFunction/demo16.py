@@ -13,7 +13,8 @@ Python id() 函数
 返回值：
     返回对象的内存地址
 '''
-a = "runoob"
-print(id(a))
-b = 1
-print(id(b))
+if __name__ == "__main__":
+    a = "runoob"
+    print(id(a))
+    b = 1
+    print(id(b))

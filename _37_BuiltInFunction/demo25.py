@@ -13,12 +13,13 @@ Python int() 函数
 返回值：
     返回整整型数据
 '''
-# 不传入参数时，得到结果0
-print(int())
-print(int(3))
-print(int(3.6))
+if __name__ == "__main__":
+    # 不传入参数时，得到结果0
+    print(int())
+    print(int(3))
+    print(int(3.6))
 
-# 如果是带参数base的话，12要以字符串的形式进行输入，12 为 16进制
-print(int("12", 16))
-print(int("0xa", 16))
-print(int("10", 8))
+    # 如果是带参数base的话，12要以字符串的形式进行输入，12 为 16进制
+    print(int("12", 16))
+    print(int("0xa", 16))
+    print(int("10", 8))

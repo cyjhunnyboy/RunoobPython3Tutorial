@@ -21,28 +21,12 @@ Python type() 函数
 返回值：
     一个参数返回对象类型, 三个参数，返回新的类型对象
 '''
-# 一个参数实例
-print(type(1))
-print(type("runoob"))
-print(type([2]))
-print(type({0: "zero"}))
 
-# 判断类型是否相等
-x = 1
-print(type(x) == int)
 
-# 三个参数
 class X(object):
-
     a = 1
 
 
-# 产生一个新的类型 X
-X= type('X', (object,), dict(a=1))
-print(X)
-
-
-# type() 与 isinstance()区别
 class A:
     pass
 
@@ -50,11 +34,29 @@ class A:
 class B(A):
     pass
 
-# returns True
-print(isinstance(A(), A))
-# returns True
-print(type(A()) == A)
-# returns True
-print(isinstance(B(), A))
-# returns False
-print(type(B()) == A)
+
+if __name__ == "__main__":
+    # 一个参数实例
+    print(type(1))
+    print(type("runoob"))
+    print(type([2]))
+    print(type({0: "zero"}))
+
+    # 判断类型是否相等
+    x = 1
+    print(type(x) == int)
+
+    # 三个参数
+    # 产生一个新的类型 X
+    X = type('X', (object,), dict(a=1))
+    print(X)
+
+    # type() 与 isinstance()区别
+    # returns True
+    print(isinstance(A(), A))
+    # returns True
+    print(type(A()) == A)
+    # returns True
+    print(isinstance(B(), A))
+    # returns False
+    print(type(B()) == A)

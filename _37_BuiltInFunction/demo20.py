@@ -12,12 +12,13 @@ Python3 input() 函数
     参数说明：
         prompt: 提示信息
 '''
-# 输入整数
-a = input("input:")
-print(a)
-print(type(a))
+if __name__ == "__main__":
+    # 输入整数
+    a = input("input:")
+    print(a)
+    print(type(a))
 
-# 输入字符串
-b = input("input:")
-print(b)
-print(type(b))
+    # 输入字符串
+    b = input("input:")
+    print(b)
+    print(type(b))

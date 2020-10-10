@@ -12,9 +12,10 @@ Python3 len()方法
 返回值：
     返回对象长度
 '''
-str1 = "runoob"
-# 字符串长度
-print(len(str1))
-# 列表元素个数
-list1 = [1,2,3,4,5]
-print(len(list1))
+if __name__ == "__main__":
+    str1 = "runoob"
+    # 字符串长度
+    print(len(str1))
+    # 列表元素个数
+    list1 = [1, 2, 3, 4, 5]
+    print(len(list1))

@@ -12,8 +12,9 @@ Python classmethod 修饰符
 返回值：
     返回函数的类方法
 '''
-class A(object):
 
+
+class A(object):
     bar = 1
 
     def func1(self):

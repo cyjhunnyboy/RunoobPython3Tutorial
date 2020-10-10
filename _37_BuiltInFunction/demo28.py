@@ -13,10 +13,11 @@ Python bool() 函数
 返回值：
     返回 True 或 False
 '''
-print(bool())
-print(bool(0))
-print(bool(1))
-print(bool(2))
+if __name__ == "__main__":
+    print(bool())
+    print(bool(0))
+    print(bool(1))
+    print(bool(2))
 
-# bool 是 int 子类
-print(issubclass(bool, int))
+    # bool 是 int 子类
+    print(issubclass(bool, int))

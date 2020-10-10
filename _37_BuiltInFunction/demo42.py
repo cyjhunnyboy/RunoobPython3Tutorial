@@ -18,16 +18,16 @@ Python print() 函数
 返回值：
     无
 '''
-print(1)
-print("Hello World")
+if __name__ == "__main__":
+    print(1)
+    print("Hello World")
 
-a = 1
-b = "runoob"
-print(a, b)
+    a = 1
+    b = "runoob"
+    print(a, b)
 
-print("aaa""bbb")
-print("aaa", "bbb")
+    print("aaa""bbb")
+    print("aaa", "bbb")
 
-# 设置间隔符
-print("www", "runoob", "com", sep=".")
-
+    # 设置间隔符
+    print("www", "runoob", "com", sep=".")

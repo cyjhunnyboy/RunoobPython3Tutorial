@@ -16,6 +16,7 @@ Python bytearray() 函数
 返回值：
     返回新字节数组
 '''
-print(bytearray())
-print(bytearray([1, 2, 3]))
-print(bytearray("runoob", "utf-8"))
+if __name__ == "__main__":
+    print(bytearray())
+    print(bytearray([1, 2, 3]))
+    print(bytearray("runoob", "utf-8"))

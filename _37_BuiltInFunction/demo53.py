@@ -12,6 +12,7 @@ Python3 chr() 函数
 返回值：
     返回值是当前整数对应的 ASCII 字符
 '''
-print(chr(0x30))
-print(chr(97))
-print(chr(8364))
+if __name__ == "__main__":
+    print(chr(0x30))
+    print(chr(97))
+    print(chr(8364))

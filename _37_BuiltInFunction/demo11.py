@@ -12,8 +12,9 @@ Python3 hex() 函数
 返回值：
     返回一个字符串，以 0x 开头
 '''
-print(hex(255))
-print(hex(-42))
-print(hex(12))
-# hex(x)返回值类型是“字符串”
-print(type(hex(12)))
+if __name__ == "__main__":
+    print(hex(255))
+    print(hex(-42))
+    print(hex(12))
+    # hex(x)返回值类型是“字符串”
+    print(type(hex(12)))

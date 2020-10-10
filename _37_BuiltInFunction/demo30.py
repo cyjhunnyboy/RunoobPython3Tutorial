@@ -17,20 +17,25 @@ Python isinstance() 函数
 返回值：
     如果对象的类型与参数二的类型（classinfo）相同则返回 True，否则返回 False
 '''
-a = 2
-print(isinstance(a, int))
-print(isinstance(a, str))
-# 是元组中的一个返回 True
-print(isinstance(a, (str, int, list)))
 
-# type() 与 isinstance()区别
+
 class A:
     pass
+
 
 class B(A):
     pass
 
-print(isinstance(A(), A))
-print(type(A()) == A)
-print(isinstance(B(), A))
-print(type(B()) == A)
+
+if __name__ == "__main__":
+    a = 2
+    print(isinstance(a, int))
+    print(isinstance(a, str))
+    # 是元组中的一个返回 True
+    print(isinstance(a, (str, int, list)))
+
+    # type() 与 isinstance()区别
+    print(isinstance(A(), A))
+    print(type(A()) == A)
+    print(isinstance(B(), A))
+    print(type(B()) == A)

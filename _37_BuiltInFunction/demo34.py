@@ -14,22 +14,24 @@ Python3 filter() 函数
 返回值：
     返回一个迭代器对象
 '''
+import math
+
+
 # 过滤出列表中的所有奇数
 def is_odd(n):
-    return  n % 2 == 1
-
-tmplist = filter(is_odd, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-newlist = list(tmplist)
-print(newlist)
-
-# 过滤出1~100中平方根是整数的数
-import math
+    return n % 2 == 1
 
 
 def is_sqr(x):
     return math.sqrt(x) % 1 == 0
 
 
-tmplist = filter(is_sqr, range(1, 101))
-newlist = list(tmplist)
-print(newlist)
+if __name__ == "__main__":
+    tmplist = filter(is_odd, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    newlist = list(tmplist)
+    print(newlist)
+
+    # 过滤出1~100中平方根是整数的数
+    tmplist = filter(is_sqr, range(1, 101))
+    newlist = list(tmplist)
+    print(newlist)

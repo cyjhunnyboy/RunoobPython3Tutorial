@@ -19,23 +19,25 @@ Python all() 函数
 返回值：
     如果iterable的所有元素不为0、''、False或者iterable为空，
     all(iterable)返回True，否则返回False
-注意：空元组、空列表返回值为True，这里要特别注意。
-'''
-# 列表list，元素都不为空或0
-print(all(['a', 'b', 'c', 'd']))
-# 列表list，存在一个为空的元素
-print( all(['a', 'b', '', 'd']))
-# 列表list，存在一个为0的元素
-print(all([0, 1, 2, 3]))
-# 空列表
-print(all([]))
-print("-------")
 
-# 元组tuple，元素都不为空或0
-print(all(('a', 'b', 'c', 'd')))
-# 元组tuple，存在一个为空的元素
-print(all(('a', 'b', '', 'd')))
-# 元组tuple，存在一个为0的元素
-print( all((0, 1, 2, 3)))
-# 空元祖
-print( all(()))
+    注意：空元组、空列表返回值为True，这里要特别注意。
+'''
+if __name__ == "__main__":
+    # 列表list，元素都不为空或0
+    print(all(['a', 'b', 'c', 'd']))
+    # 列表list，存在一个为空的元素
+    print(all(['a', 'b', '', 'd']))
+    # 列表list，存在一个为0的元素
+    print(all([0, 1, 2, 3]))
+    # 空列表
+    print(all([]))
+    print("-------")
+
+    # 元组tuple，元素都不为空或0
+    print(all(('a', 'b', 'c', 'd')))
+    # 元组tuple，存在一个为空的元素
+    print(all(('a', 'b', '', 'd')))
+    # 元组tuple，存在一个为0的元素
+    print(all((0, 1, 2, 3)))
+    # 空元祖
+    print(all(()))

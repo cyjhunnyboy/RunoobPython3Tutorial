@@ -13,14 +13,17 @@ Python getattr() 函数
 返回值：
     对象属性的值
 '''
+
+
 class A(object):
     bar = 1
 
 
-a = A()
-#  # 获取属性 bar 值
-bar_1 = getattr(a, "bar")
-print(bar_1)
-# 设置属性 bar 值
-setattr(a, 'bar', 5)
-print(a.bar)
+if __name__ == "__main__":
+    a = A()
+    # 获取属性 bar 值
+    bar_1 = getattr(a, "bar")
+    print(bar_1)
+    # 设置属性 bar 值
+    setattr(a, 'bar', 5)
+    print(a.bar)

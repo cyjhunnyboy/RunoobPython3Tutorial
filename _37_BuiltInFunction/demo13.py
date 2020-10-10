@@ -15,15 +15,16 @@ Python slice() 函数
 返回值：
     返回一个切片对象
 '''
-# 设置截取5个元素的切片
-myslice = slice(5)
-print(myslice)
+if __name__ == "__main__":
+    # 设置截取5个元素的切片
+    myslice = slice(5)
+    print(myslice)
 
-arr = range(10)
-for i in arr:
-    print(i)
+    arr = range(10)
+    for i in arr:
+        print(i)
 
-print("==============")
-arr2 = arr[myslice]
-for j in arr2:
-    print(j)
+    print("==============")
+    arr2 = arr[myslice]
+    for j in arr2:
+        print(j)

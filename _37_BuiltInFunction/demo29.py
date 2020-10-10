@@ -17,24 +17,7 @@ Python3 exec 函数
 返回值：
     exec 返回值永远为 None
 '''
-# 单行语句字符串
-exec('print("Hello World")')
-exec("print ('runoob.com')")
 
-# 多行语句字符串
-exec(
-"""
-for i in range(5):
-    print("iter time: %d" % i)
-"""
-)
-
-x = 10
-expr = """
-z = 30
-sum = x + y + z
-print(sum)
-"""
 
 def func():
     y = 20
@@ -42,4 +25,25 @@ def func():
     exec(expr, {"x": 1, "y": 2})
     exec(expr, {"x": 1, "y": 2}, {"y": 3, "z": 4})
 
-func()
+
+if __name__ == "__main__":
+    # 单行语句字符串
+    exec('print("Hello World")')
+    exec("print ('runoob.com')")
+
+    # 多行语句字符串
+    exec(
+        """
+        for i in range(5):
+            print("iter time: %d" % i)
+        """
+    )
+
+    x = 10
+    expr = """
+    z = 30
+    sum = x + y + z
+    print(sum)
+    """
+
+    func()

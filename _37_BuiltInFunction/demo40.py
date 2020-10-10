@@ -12,8 +12,9 @@ Python float() 函数
 返回值：
     返回浮点数
 '''
-print(float(1))
-print(float(112))
-print(float(-123.6))
-# 字符串
-print(float("123"))
+if __name__ == "__main__":
+    print(float(1))
+    print(float(112))
+    print(float(-123.6))
+    # 字符串
+    print(float("123"))

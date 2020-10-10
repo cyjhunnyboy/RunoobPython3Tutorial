@@ -15,15 +15,16 @@ Python3 range() 函数用法
         stop: 计数到 stop 结束，但不包括 stop。例如：range（0， 5） 是[0, 1, 2, 3, 4]没有5
         step：步长，默认为1。例如：range（0， 5） 等价于 range(0, 5, 1)
 '''
-print(range(5))
-for i in range(5):
-    print(i)
+if __name__ == "__main__":
+    print(range(5))
+    for i in range(5):
+        print(i)
 
-print(list(range(5)))
-print(list(range(0)))
+    print(list(range(5)))
+    print(list(range(0)))
 
-# 有两个参数或三个参数的情况（第二种构造方法）
-print(list(range(0, 30, 5)))
-print(list(range(0, 10, 2)))
-print(list(range(0, -10, -1)))
-print(list(range(1, 0)))
+    # 有两个参数或三个参数的情况（第二种构造方法）
+    print(list(range(0, 30, 5)))
+    print(list(range(0, 10, 2)))
+    print(list(range(0, -10, -1)))
+    print(list(range(1, 0)))

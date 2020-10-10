@@ -13,14 +13,11 @@ Python callable() 函数
 返回值：
     可调用返回 True，否则返回 False
 '''
-print(callable(0))
-print(callable("runoob"))
+
 
 def add(c, d):
     return c + d
 
-# 函数返回true
-print(callable(add))
 
 class A:
 
@@ -28,19 +25,26 @@ class A:
         return 0
 
 
-# 类返回true
-print(callable(A))
-a = A()
-# 没有实现 __call__, 返回 False
-print(callable(a))
-
 class B:
 
     def __call__(self, *args, **kwargs):
         return 0
 
 
-print(callable(B))
-b = B()
-# 实现 __call__, 返回 True
-print(callable(b))
+if __name__ == "__main__":
+    print(callable(0))
+    print(callable("runoob"))
+
+    # 函数返回true
+    print(callable(add))
+
+    # 类返回true
+    print(callable(A))
+    a = A()
+    # 没有实现 __call__, 返回 False
+    print(callable(a))
+
+    print(callable(B))
+    b = B()
+    # 实现 __call__, 返回 True
+    print(callable(b))

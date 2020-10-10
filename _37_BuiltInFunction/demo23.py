@@ -12,5 +12,6 @@ Python bin() 函数
 返回值：
     字符串
 '''
-print(bin(10))
-print(bin(20))
+if __name__ == "__main__":
+    print(bin(10))
+    print(bin(20))
