@@ -10,7 +10,8 @@ Python getattr() 函数
     参数：
         object -- 对象。
         name -- 字符串，对象属性。
-返回值：对象属性的值
+返回值：
+    对象属性的值
 '''
 class A(object):
     bar = 1

@@ -9,7 +9,8 @@ Python help() 函数
     help([object])
     参数：
         object -- 对象；
-返回值：返回对象帮助信息。
+返回值：
+    返回对象帮助信息。
 '''
 # 查看 sys 模块的帮助
 help('sys')

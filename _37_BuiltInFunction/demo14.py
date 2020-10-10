@@ -16,7 +16,8 @@ Python any() 函数
     any(iterable)
     参数：
         iterable -- 元组或列表。
-返回值：如果都为空、0、false，则返回false，如果不都为空、0、false，则返回true
+返回值：
+    如果都为空、0、false，则返回false，如果不都为空、0、false，则返回true
 '''
 # 列表list，元素都不为空或0
 print(any(['a', 'b', 'c', 'd']))

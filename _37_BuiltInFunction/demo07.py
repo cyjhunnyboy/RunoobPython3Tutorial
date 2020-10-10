@@ -11,7 +11,8 @@ Python setattr() 函数
         object -- 对象。
         name -- 字符串，对象属性。
         value -- 属性值。
-返回值：无
+返回值：
+    无
 '''
 class A(object):
     bar = 1

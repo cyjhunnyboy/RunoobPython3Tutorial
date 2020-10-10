@@ -13,7 +13,8 @@ Python dict() 函数
         **kwargs -- 关键字
         mapping -- 元素的容器。
         iterable -- 可迭代对象。
-返回值：返回一个字典
+返回值：
+    返回一个字典
 '''
 # 创建空字典
 dict1 = dict()

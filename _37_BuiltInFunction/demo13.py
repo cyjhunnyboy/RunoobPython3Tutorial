@@ -12,7 +12,8 @@ Python slice() 函数
         start -- 起始位置
         stop -- 结束位置
         step -- 间距
-返回值：返回一个切片对象
+返回值：
+    返回一个切片对象
 '''
 # 设置截取5个元素的切片
 myslice = slice(5)
