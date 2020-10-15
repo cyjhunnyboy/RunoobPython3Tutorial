@@ -1,22 +1,22 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
+'''
+Python dict()函数
+描述：
+    dict()函数用于创建一个字典
+语法：
+    class dict(**kwarg)
+    class dict(mapping, **kwarg)
+    class dict(iterable, **kwarg)
+    参数：
+        **kwargs -- 关键字
+        mapping -- 元素的容器。
+        iterable -- 可迭代对象。
+返回值：
+    返回一个字典
+'''
 if __name__ == "__main__":
-    '''
-    Python dict()函数
-    描述：
-        dict()函数用于创建一个字典
-    语法：
-        class dict(**kwarg)
-        class dict(mapping, **kwarg)
-        class dict(iterable, **kwarg)
-        参数：
-            **kwargs -- 关键字
-            mapping -- 元素的容器。
-            iterable -- 可迭代对象。
-    返回值：
-        返回一个字典
-    '''
     # 创建空字典
     print(dict())
     # 传入关键字

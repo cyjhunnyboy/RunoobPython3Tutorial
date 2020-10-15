@@ -2,6 +2,7 @@
 # author: chenyongjun
 
 '''
+注释：
     Python中单行注释以#开头
 '''
 if __name__ == "__main__":

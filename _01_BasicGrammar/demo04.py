@@ -2,6 +2,7 @@
 # author: chenyongjun
 
 '''
+注释：
     多行注释可以用多个#号，还有\'''和\"""：
 '''
 if __name__ == "__main__":
