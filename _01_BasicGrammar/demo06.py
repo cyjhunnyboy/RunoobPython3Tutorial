@@ -2,7 +2,7 @@
 # author: chenyongjun
 
 if __name__ == "__main__":
-    # Python 通常是一行写完一条语句，但如果语句很长，
+    # Python通常是一行写完一条语句，但如果语句很长，
     # 我们可以使用反斜杠(\)来实现多行语句
     item_one = "Hello"
     item_two = " Welcome"
@@ -13,7 +13,7 @@ if __name__ == "__main__":
             item_third
     print(total)
 
-    # 在 [], {}, 或 () 中的多行语句，不需要使用反斜杠(\)
-    total_all = ['item_one', 'item_two', 'item_three',
-                 'item_four', 'item_five']
+    # 在[], {}, 或()中的多行语句，不需要使用反斜杠(\)
+    total_all = ["item_one", "item_two", "item_three",
+                 "item_four", "item_five"]
     print(total_all)
