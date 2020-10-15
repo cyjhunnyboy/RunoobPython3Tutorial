@@ -3,9 +3,9 @@
 
 if __name__ == "__main__":
     '''
-    Python float() 函数
+    Python float()函数
     描述：
-        float() 函数用于将整数和字符串转换成浮点数。
+        float()函数用于将整数和字符串转换成浮点数。
     语法：
         class float([x])
         参数：

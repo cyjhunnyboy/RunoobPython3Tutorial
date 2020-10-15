@@ -3,9 +3,9 @@
 
 if __name__ == "__main__":
     '''
-    Python eval() 函数
+    Python eval()函数
     描述：
-        eval() 函数用来执行一个字符串表达式，并返回表达式的值
+        eval()函数用来执行一个字符串表达式，并返回表达式的值
     语法：
         eval(expression[, globals[, locals]])
         参数：

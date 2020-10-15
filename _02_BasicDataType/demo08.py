@@ -25,9 +25,9 @@ if __name__ == "__main__":
     '''
 
     '''
-    Python int() 函数
+    Python int()函数
     描述：
-        int() 函数用于将一个字符串或数字转换为整型。
+        int()函数用于将一个字符串或数字转换为整型。
     语法：
         class int(x, base=10)
         参数：

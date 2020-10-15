@@ -3,9 +3,9 @@
 
 if __name__ == "__main__":
     '''
-    Python repr() 函数
+    Python repr()函数
     描述： 
-        repr() 函数将对象转化为供解释器读取的形式
+        repr()函数将对象转化为供解释器读取的形式
     语法：
         repr(object)
         参数：

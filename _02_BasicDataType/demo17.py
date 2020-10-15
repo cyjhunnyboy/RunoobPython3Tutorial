@@ -5,7 +5,7 @@ if __name__ == "__main__":
     '''
     Python dict()函数
     描述：
-        dict() 函数用于创建一个字典
+        dict()函数用于创建一个字典
     语法：
         class dict(**kwarg)
         class dict(mapping, **kwarg)

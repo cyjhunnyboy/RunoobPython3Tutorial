@@ -3,11 +3,11 @@
 
 if __name__ == "__main__":
     '''
-    Python tuple() 函数
+    Python tuple()函数
     描述： 
-        tuple 函数将列表转换为元组
+        tuple函数将列表转换为元组
     语法：
-        tuple( seq )
+        tuple(seq)
         参数：
             seq -- 要转换为元组的序列
     返回值：
