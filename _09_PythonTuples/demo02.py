@@ -1,8 +1,17 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-# 元组中只包含一个元素时，需要在元素后面添加逗号，否则括号会被当作运算符使用
-tup_a = (50)
-print(type(tup_a))
-tup4 = (50,)
-print(type(tup4))
+'''
+Python3 元组
+    元组中只包含一个元素时，需要在元素后面添加逗号，否则括号会被当作运算符使用
+'''
+if __name__ == "__main__":
+    # 不加逗号，类型为整型
+    tuple_1 = (50)
+    print(type(tuple_1))
+    print(tuple_1)
+
+    # 加上逗号，类型为元组
+    tuple_2 = (50,)
+    print(type(tuple_2))
+    print(tuple_2)
