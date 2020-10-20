@@ -1,10 +1,13 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-"""
-计算集合元素个数
-语法格式如下：
-len(s)
-"""
-thisset = {"Google", "Runoob", "Taobao"}
-print(len(thisset))
+'''
+Python3 集合
+    计算集合元素个数
+    语法格式如下：
+    len(s)：计算集合s元素个数
+'''
+if __name__ == "__main__":
+    thisset = {"Google", "Runoob", "Taobao"}
+    print(thisset)
+    print(len(thisset))
