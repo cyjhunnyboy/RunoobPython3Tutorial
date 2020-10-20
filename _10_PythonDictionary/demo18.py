@@ -1,21 +1,22 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-"""
-Python3 字典 values() 方法
-描述
-Python 字典 values() 方法以列表返回字典中的所有值。
+'''
+Python3 字典values()方法
+描述：
+    Python字典values()方法返回一个迭代器，可以使用list()来转换为列表，列表为字典中的所有值。
+语法：
+    dict.values()
+    参数
+        NA。
+返回值：
+    返回迭代器。
+'''
+if __name__ == "__main__":
+    dict_a = {"Name": "Zara", "Age": 7, "Sex": "female"}
 
-语法
-values()方法语法：
+    print("字典所有值为：", list(dict_a.values()))
 
-dict.values()
-参数
-NA。
-返回值
-返回字典中的所有值。
-"""
-
-dicta = {'Sex': 'female', 'Age': 7, 'Name': 'Zara'}
-
-print("字典所有值为 : ",  list(dicta.values()))
+    # 遍历字典所有值转换后的列表
+    for value in list(dict_a.values()):
+        print(value, end=" ")

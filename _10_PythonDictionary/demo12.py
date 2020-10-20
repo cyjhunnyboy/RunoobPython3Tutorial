@@ -16,5 +16,5 @@ Python3 字典get()方法
 if __name__ == "__main__":
     dict_a = {"Name": "Runoob", "Age": 27}
 
-    print("Age 值为：%s" % dict_a.get("Age"))
-    print("Sex 值为：%s" % dict_a.get("Sex", "NA"))
+    print("Age值为：%s" % dict_a.get("Age"))
+    print("Sex值为：%s" % dict_a.get("Sex", "NA"))
