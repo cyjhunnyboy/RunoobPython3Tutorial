@@ -21,11 +21,19 @@ break和continue语句及循环中的else子句
     continue语句被用来告诉Python跳过当前循环块中的剩余语句，然后继续进行下一轮循环
 '''
 if __name__ == "__main__":
-    # while中使用continue
-    n = 5
-    while n > 0:
-        n -= 1
-        if n == 2:
-            continue
-        print(n)
-    print("循环结束。")
+    # 第一个实例
+    for letter in "Runoob":
+        if letter == 'b':
+            break
+        print("当前字母为：", letter)
+
+    print("\n")
+
+    # 第二个实例
+    var = 10
+    while var > 0:
+        print("当期变量值为：", var)
+        var = var - 1
+        if var == 5:
+            break
+    print("Good bye!")
