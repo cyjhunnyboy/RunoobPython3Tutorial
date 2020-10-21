@@ -1,19 +1,28 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
+'''
+Python3 函数
+参数
+    以下是调用函数时可使用的正式参数类型：
+    1、必需参数
+    2、关键字参数
+    3、默认参数
+    4、不定长参数
+必需参数
+    必需参数须以正确的顺序传入函数。调用时的数量必须和声明时的一样
+'''
 
-# 加了星号 * 的参数会以元组(tuple)的形式导入，存放所有未命名的变量参数
+
 # 可写函数说明
-def print_info(arg1, *vartuple):
-    """打印任何传入的参数"""
-    print("输出: ")
-    print(arg1)
-    for var in vartuple:
-        print(var)
+def printme(printstr):
+    """打印任何传入的字符串"""
+    print(printstr)
     return
 
 
-# 调用print_info函数
-# 如果在函数调用时没有指定参数，它就是一个空元组。我们也可以不向函数传递未命名的变量
-print_info(10)
-print_info(70, 60, 50)
+if __name__ == "__main__":
+    # 调用printme函数，不加参数会报错
+    # TypeError: printme() missing 1 required
+    # positional argument: 'printstr'
+    printme()

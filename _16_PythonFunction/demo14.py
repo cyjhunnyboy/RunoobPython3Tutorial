@@ -17,17 +17,25 @@ Python3 函数
             function_suite
             return [expression]
     加了星号*的参数会以元组(tuple)的形式导入，存放所有未命名的变量参数
+
+    还有一种就是参数带两个星号**基本语法如下：
+        def functionname([formal_args,] **var_args_dict ):
+            "函数_文档字符串"
+            function_suite
+            return [expression]
+    加了两个星号**的参数会以字典的形式导入
+
+    声明函数时，参数中星号*可以单独出现
+        def f(a,b,*,c):
+            return a+b+c
+    如果单独出现星号*后的参数必须用关键字传入
 '''
 
 
-# 可写函数说明
-def printinfo(arg, *vartuple):
-    """打印任何传入的字符串"""
-    print("输出：")
-    print(arg)
-    print(vartuple)
+def f(a, b, *, c):
+    return a + b + c
 
 
 if __name__ == "__main__":
-    # 调用printinfo函数
-    printinfo(70, 60, 50)
+    # 正常
+    print(f(1, 2, c=3))

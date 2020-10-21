@@ -1,18 +1,27 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
+'''
+Python3 函数
+参数
+    以下是调用函数时可使用的正式参数类型：
+    1、必需参数
+    2、关键字参数
+    3、默认参数
+    4、不定长参数
+关键字参数
+    关键字参数和函数调用关系紧密，函数调用使用关键字参数来确定传入的参数值。
+    使用关键字参数允许函数调用时参数的顺序与声明时不一致，因为Python解释器能够用参数名匹配参数值。
+'''
 
-# 加了两个星号 ** 的参数会以字典的形式导入
+
 # 可写函数说明
-def print_info(arg1, **vardict):
-    """打印任何传入的参数"""
-    print("输出: ")
-    print(arg1)
-    print(vardict)
-    for key, value in vardict.items():
-        print(key, value)
-    print(len(vardict))
+def printme(printstr):
+    """打印任何传入的字符串"""
+    print(printstr)
+    return
 
 
-# 调用print_info函数
-print_info(1, a=2, b=3)
+if __name__ == "__main__":
+    # 调用printme函数，不加参数会报错
+    printme(printstr="菜鸟教程")

@@ -1,22 +1,29 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
-"""
-匿名函数
-python 使用 lambda 来创建匿名函数。
 
-所谓匿名，意即不再使用 def 语句这样标准的形式定义一个函数。
+'''
+Python3 函数
+参数
+    以下是调用函数时可使用的正式参数类型：
+    1、必需参数
+    2、关键字参数
+    3、默认参数
+    4、不定长参数
+关键字参数
+    关键字参数和函数调用关系紧密，函数调用使用关键字参数来确定传入的参数值。
+    使用关键字参数允许函数调用时参数的顺序与声明时不一致，因为Python解释器能够用参数名匹配参数值。
+'''
 
-lambda 只是一个表达式，函数体比 def 简单很多。
-lambda的主体是一个表达式，而不是一个代码块。仅仅能在lambda表达式中封装有限的逻辑进去。
-lambda 函数拥有自己的命名空间，且不能访问自己参数列表之外或全局命名空间里的参数。
-虽然lambda函数看起来只能写一行，却不等同于C或C++的内联函数，后者的目的是调用小函数时不占用栈内存从而增加运行效率。
-语法
-lambda 函数的语法只包含一个语句，如下：
-lambda [arg1 [,arg2,.....argn]]:expression
-"""
+
 # 可写函数说明
-sums = lambda arg1, arg2: arg1 + arg2
+def printinfo(name, age):
+    """打印任何传入的字符串"""
+    print("名字：", name)
+    print("年龄：", age)
+    return
 
-# 调用sum函数
-print("相加后的值为 : ", sums(10, 20))
-print("相加后的值为 : ", sums(20, 20))
+
+if __name__ == "__main__":
+    # 调用printinfo函数
+    # 函数参数的使用不需要使用指定顺序
+    printinfo(age=50, name="runoob")

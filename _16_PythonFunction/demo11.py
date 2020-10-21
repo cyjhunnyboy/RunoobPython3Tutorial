@@ -1,23 +1,39 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-"""
-全局变量和局部变量
-定义在函数内部的变量拥有一个局部作用域，定义在函数外的拥有全局作用域。
-
-局部变量只能在其被声明的函数内部访问，而全局变量可以在整个程序范围内访问。调用函数时，所有在函数内声明的变量名称都将被加入到作用域中
-"""
-total = 0  # 这是一个全局变量
+'''
+Python3 函数
+参数
+    以下是调用函数时可使用的正式参数类型：
+    1、必需参数
+    2、关键字参数
+    3、默认参数
+    4、不定长参数
+不定长参数
+    一个函数能处理比当初声明时更多的参数。这些参数叫做不定长参数
+    基本语法格式如下：
+        def functionname([formal_args,] *var_args_tuple ):
+            "函数_文档字符串"
+            function_suite
+            return [expression]
+    加了星号*的参数会以元组(tuple)的形式导入，存放所有未命名的变量参数
+'''
 
 
 # 可写函数说明
-def sum(arg1, arg2):
-    # 返回2个参数的和."
-    total = arg1 + arg2  # total在这里是局部变量.
-    print("函数内是局部变量 : ", total)
-    return total
+def printinfo(arg, *vartuple):
+    """打印任何传入的字符串"""
+    print("输出：")
+    print(arg)
+    print(vartuple)
 
 
-# 调用sum函数
-sum(10, 20)
-print("函数外是全局变量 : ", total)
+if __name__ == "__main__":
+    # 如果在函数调用时没有指定参数，它就是一个空元组。
+    # 我们也可以不向函数传递未命名的变量
+    printinfo(10)
+
+    print("===========")
+
+    # 调用printinfo函数
+    printinfo(70, 60, 50)
