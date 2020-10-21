@@ -27,17 +27,16 @@ if 语句
         3、在Python中没有switch–case语句。
 '''
 if __name__ == "__main__":
-    age = int(input("请输入你家狗狗的年龄："))
-    print("")
-    if age <= 0:
-        print("你是在逗我吧！")
-    elif age == 1:
-        print("相当于14岁的人。")
-    elif age == 2:
-        print("相当于22岁的人。")
-    elif age > 2:
-        human = 22 + (age - 2) * 5
-        print("对应人类年龄：", human)
+    # 该实例演示了数字猜谜游戏
+    number = 7
+    guess = -1
+    print("数字猜谜游戏!")
+    while guess != number:
+        guess = int(input("请输入你猜的数字："))
 
-    # 退出提示
-    input("点击enter键退出")
+        if guess == number:
+            print("恭喜，你猜对了！")
+        elif guess < number:
+            print("猜的数字小了...")
+        elif guess > number:
+            print("猜的数字大了...")

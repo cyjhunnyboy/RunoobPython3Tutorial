@@ -1,14 +1,26 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-num = int(input("输入一个数字："))
-if num % 2 == 0:
-    if num % 3 == 0:
-        print("你输入的数字可以整除 2 和 3")
-    else:
-        print("你输入的数字可以整除 2，但不能整除 3")
-else:
-    if num % 3 == 0:
-        print("你输入的数字可以整除 3，但不能整除 2")
-    else:
-        print("你输入的数字不能整除 2 和 3")
+'''
+Python3 条件控制
+   if中常用的操作运算符
+   <：小于
+   <=：小于或等于
+   >：大于
+   >=：大于或等于
+   ==：等于，比较两个值是否相等
+   !=：不等于
+'''
+if __name__ == "__main__":
+    # 程序演示了==操作符
+    # 使用数字
+    print(5 == 6)
+    # 使用变量
+    x = 5
+    y = 6
+    print(x == y)
+    print(x < y)
+    print(x > y)
+    print(x <= y)
+    print(x >= y)
+    print(x != y)
