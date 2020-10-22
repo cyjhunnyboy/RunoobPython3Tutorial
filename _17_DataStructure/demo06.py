@@ -1,27 +1,24 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-"""
-集合
-集合是一个无序不重复元素的集。基本功能包括关系测试和消除重复元素。
+'''
+Python3 数据结构
+del 语句
+    使用del语句可以从一个列表中依索引而不是值来删除一个元素。
+    这与使用pop()返回一个值不同。可以用del语句从列表中删除一个切割，
+    或清空整个列表（我们以前介绍的方法是给该切割赋一个空列表）
+'''
+if __name__ == "__main__":
+    a = [-1, 1, 66.25, 333, 333, 1234.5]
 
-可以用大括号({})创建集合。注意：如果要创建一个空集合，你必须用 set() 而不是 {} ；后者创建一个空的字典，下一节我们会介绍这个数据结构。
+    del a[0]
+    print(a)
 
-以下是一个简单的演示
-"""
-basket = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
-print(basket)   # 删除重复的
-print('orange' in basket)
-print('crabgrass' in basket)
+    del a[2:4]
+    print(a)
 
-a = set('abracadabra')
-b = set('alacazam')
-print(a)
-print(a - b)    # a - b
-print(a | b)    # 在 a 或 b 中的字母
-print(a & b)    # 在 a 和 b 中都有的字母
-print(a ^ b)    # 在 a 或 b 中的字母，但不同时在 a 和 b 中
+    del a[:]
+    print(a)
 
-# 集合也支持推导式
-a = {x for x in 'abracadabra' if x not in 'abc'}
-print(a)
+    # del删除实体变量
+    del a
