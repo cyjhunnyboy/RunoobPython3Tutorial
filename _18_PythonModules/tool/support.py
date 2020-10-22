@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-
-def print_func(parameter):
-    print("Hello, ", parameter)
+# Filename: support.py
+def print_func(param):
+    print("Hello, ", param)
     return
