@@ -1,21 +1,30 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 """
-writelines() 方法用于向文件中写入一序列的字符串。
+write() 方法用于向文件中写入指定字符串。
 
-这一序列字符串可以是由迭代对象产生的，如一个字符串列表。
+在文件关闭前或缓冲区刷新前，字符串内容存储在缓冲区中，这时你在文件中是看不到写入的内容的。
 
-换行需要制定换行符 \n。
-writelines() 方法语法如下：
-fileObject.writelines( [ str ])
-str -- 要写入文件的字符串序列。
+如果文件打开模式带 b，那写入文件内容时，str (参数)要用 encode 方法转为 bytes 形式，
+否则报错：TypeError: a bytes-like object is required, not 'str
+语法：fileObject.write( [ str ])
+str -- 要写入文件的字符串。
 """
 # 打开文件
-fo = open("tmp/test.txt", "w")
-print("文件名为: ", fo.name)
+fo = open("tmp/temp.txt", "r+")
+print("文件名: ", fo.name)
 
-seq = ["菜鸟教程 1\n", "菜鸟教程 2"]
-fo.writelines(seq)
+s = "6:www.runoob.com"
+# 在文件末尾写入一行
+fo.seek(0, 2)
+line = fo.write(s)
+
+# 读取文件所有内容
+fo.seek(0, 0)
+for index in range(6):
+    line = next(fo)
+    print("文件行号 %d - %s" % (index, line))
 
 # 关闭文件
 fo.close()
+

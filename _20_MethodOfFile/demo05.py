@@ -1,13 +1,26 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-# 打开文件
-f = open("tmp/runoob.txt", "r")
-print("文件名为：", f.name)
+'''
+Python3 File(文件) 方法
+isatty() 方法
+描述：
+    isatty()方法检测文件是否连接到一个终端设备，如果是返回True，否则返回False。
+语法：
+    fileObject.isatty()
+    参数：
+        无
+返回值：
+    如果连接到一个终端设备返回True，否则返回False。
+'''
+if __name__ == "__main__":
+    # 打开文件
+    f = open("tmp/foo.txt", "r")
+    print("文件名为：", f.name)
 
-# read() 方法用于从文件读取指定的字节数，如果未给定或为负则读取所有
-line = f.read(22)
-print("读取的字符串：%s" % line)
+    # 检测文件是否连接到一个终端设备
+    res = f.isatty()
+    print("返回值：", res)
 
-# 关闭文件
-f.close()
+    # 关闭文件
+    f.close()
