@@ -10,7 +10,7 @@ Python3 输入和输出
     文件对象还有其他方法, 如isatty()和trucate(), 但这些通常比较少用。
 '''
 if __name__ == "__main__":
-    with open("tmp/foo.txt", "a+") as f:
-        f.write("Python 是一个非常好的语言。\n是的，的确非常好!!\n")
-
-    print(f.closed)
+    with open("tmp/foo.txt", "r+") as f:
+        s = f.read()
+        print(s, end="")
+        f.write("My name is Jack!\n")

@@ -1,9 +1,23 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
-"""
-当处理一个文件对象时, 使用 with 关键字是非常好的方式。在结束后, 它会帮你正确的关闭文件。 而且写起来也比 try - finally 语句块要简短
-"""
-with open("tmp/foo.txt", "a+") as f:
-    f.write("Python 是一个非常好的语言。\n是的，的确非常好!!\n")
 
-print(f.closed)
+'''
+Python3 输入和输出
+文件对象的方法
+    本节中剩下的例子假设已经创建了一个称为f的文件对象。
+    f.tell()
+        f.tell()返回文件对象当前所处的位置, 它是从文件开头开始算起的字节数。
+'''
+if __name__ == "__main__":
+    # 打开一个文件
+    f = open("tmp/foo.txt", "r")
+
+    foo = f.read()
+    print(foo)
+
+    # 返回文件对象当前所处的位置，
+    # 它是从文件开头开始算起的字节数。
+    print(f.tell())
+
+    # 关闭打开的文件
+    f.close()
