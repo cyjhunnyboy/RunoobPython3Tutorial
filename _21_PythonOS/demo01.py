@@ -2,7 +2,7 @@
 # author: chenyongjun
 
 '''
- Python3 OS 文件/目录方法
+Python3 OS 文件/目录方法
  os.access() 方法
  描述：
     os.access()方法使用当前的uid/gid尝试访问路径。大部分操作使用有效的uid/gid, 因此运行环境可以在suid/sgid环境尝试。

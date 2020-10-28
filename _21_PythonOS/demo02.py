@@ -2,7 +2,7 @@
 # author: chenyongjun
 
 '''
- Python3 OS 文件/目录方法
+Python3 OS 文件/目录方法
  os.chdir() 方法
  描述：
     os.chdir()方法用于改变当前工作目录到指定的路径。
