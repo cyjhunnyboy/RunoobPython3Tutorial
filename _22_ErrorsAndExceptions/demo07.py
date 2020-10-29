@@ -1,36 +1,15 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-
-class Error(Exception):
-    """Base class for exceptions in this module."""
-    pass
-
-
-class InputError(Error):
-    """Exception raised for errors in the input.
-
-    Attributes:
-        expression -- input expression in which the error occurred
-        message -- explanation of the error
-    """
-
-    def __init__(self, expression, message):
-        self.expression = expression
-        self.message = message
-
-
-class TransitionError(Error):
-    """Raised when an operation attempts a state transition that's not
-    allowed.
-
-    Attributes:
-        previous -- state at beginning of transition
-        next -- attempted new state
-        message -- explanation of why the specific transition is not allowed
-    """
-
-    def __init__(self, previous, by_next, message):
-        self.previous = previous
-        self.next = by_next
-        self.message = message
+'''
+Python3 错误和异常
+抛出异常
+    Python使用raise语句抛出一个指定的异常。
+    raise语法格式如下：
+        raise [Exception [, args [, traceback]]]
+'''
+if __name__ == "__main__":
+    x = 10
+    if x > 5:
+        # 如果x大于5就触发异常
+        raise Exception("x不能大于5，x的值为：{}".format(x))

@@ -1,19 +1,36 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-"""
-try语句按照如下方式工作；
-首先，执行try子句（在关键字try和关键字except之间的语句）
-如果没有异常发生，忽略except子句，try子句执行后结束。
-如果在执行try子句的过程中发生了异常，那么try子句余下的部分将被忽略。如果异常的类型和 except 之后的名称相符，
-那么对应的except子句将被执行。最后执行 try 语句之后的代码。
-如果一个异常没有与任何的except匹配，那么这个异常将会传递给上层的try中。
-一个 try 语句可能包含多个except子句，分别来处理不同的特定的异常。最多只有一个分支会被执行。
-处理程序将只针对对应的try子句中的异常进行处理，而不是其他的 try 的处理程序中的异常
-"""
-while True:
-    try:
-        x = int(input("Please enter a number: "))
-        break
-    except ValueError:
-        print("Oops! That was no valid number. Try again!")
+'''
+Python3 错误和异常
+    Python有两种错误很容易辨认：语法错误和异常。
+    Python assert（断言）用于判断一个表达式，在表达式条件为false的时候触发异常。
+
+    语法错误
+        Python的语法错误或者称之为解析错，是初学者经常碰到的。例如：
+        while True print('Hello world')
+
+        File "<stdin>", line 1, in ?
+        while True print('Hello world')
+                        ^
+        SyntaxError: invalid syntax
+        函数print()被检查到有错误，是它前面缺少了一个冒号:
+        语法分析器指出了出错的一行，并且在最先找到的错误的位置标记了一个小小的箭头。
+
+    异常
+        即便Python程序的语法是正确的，在运行它的时候，也有可能发生错误。运行期检测到的错误被称为异常。
+        大多数的异常都不会被程序处理，都以错误信息的形式展现在这里
+
+        异常以不同的类型出现，这些类型都作为信息的一部分打印出来
+        例子中的类型有ZeroDivisionError，NameError和TypeError。
+        错误信息的前面部分显示了异常发生的上下文，并以调用栈的形式显示具体信息。
+'''
+if __name__ == "__main__":
+    # 0不能作为除数
+    # 触发异常ZeroDivisionError
+    print(10 * (1 / 0))
+    # spam未定义，触发异常NameError
+    print(4 + spam * 3)
+    # int不能与str相加，触发异常TypeError
+    a = '2' + 2
+    print(a)
