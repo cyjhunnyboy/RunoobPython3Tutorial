@@ -21,4 +21,5 @@ class Complex:
 
 if __name__ == "__main__":
     x = Complex(3.0, -4.5)
+    # 输出结果：realpart = 3.0, imagpart = -4.50
     x.print_complex()

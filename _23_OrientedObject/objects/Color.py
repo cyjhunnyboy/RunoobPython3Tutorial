@@ -54,4 +54,3 @@ if __name__ == "__main__":
     Red.color(y, 3)
     Red.class_color(3)
     Red.static_color(3)
-

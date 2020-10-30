@@ -3,6 +3,7 @@
 
 
 class Student(object):
+    """学生类型Student"""
 
     _level = None
 
