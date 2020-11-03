@@ -1,8 +1,11 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-# 计算实数和复数平方根
-# 导入复数数学模块
+'''
+Python 平方根
+    通过用户输入一个数字，并计算这个数字的平方根
+    计算实数和复数平方根，导入复数数学模块import cmath
+'''
 import cmath
 
 if __name__ == "__main__":

@@ -1,8 +1,11 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
+'''
+Python 数字求和
+    通过用户输入两个数字，并计算两个数字之和
+'''
 if __name__ == "__main__":
-    # 用户输入数字
     num1 = input("输入第一个数字：")
     num2 = input("输入第二个数字：")
 
