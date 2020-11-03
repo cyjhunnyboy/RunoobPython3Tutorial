@@ -2,23 +2,15 @@
 # author: chenyongjun
 
 '''
-Python 二次方程
-    通过用户输入数字，并计算二次方程
-    二次方程式ax**2+bx+c=0；a、b、c用户提供，为实数，a≠0
+Python 平方根
+    通过用户输入一个数字，并计算这个数字的平方根
+    计算实数和复数平方根，需导入复数数学模块import cmath
+    cmath(complex math)模块的sqrt()方法来计算平方根
 '''
-# 导入cmath(复杂数学运算)模块
 import cmath
 
 if __name__ == "__main__":
-    a = float(input("输入a："))
-    b = float(input("输入b："))
-    c = float(input("输入c："))
-
-    # 计算
-    d = (b ** 2) - (4 * a * c)
-
-    # 两种求解方式
-    sol1 = (-b - cmath.sqrt(d)) / (2 * a)
-    sol2 = (-b + cmath.sqrt(d)) / (2 * a)
-
-    print("结果为：{0}和{1}".format(sol1, sol2))
+    # 正数、负数和复数
+    num = int(input("请输入一个数字："))
+    num_sqrt = cmath.sqrt(num)
+    print("{0}的平方根为：{1:0.3f}+{2:0.3f}j".format(num, num_sqrt.real, num_sqrt.imag))

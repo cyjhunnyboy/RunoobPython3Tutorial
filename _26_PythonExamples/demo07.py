@@ -2,18 +2,17 @@
 # author: chenyongjun
 
 '''
-Python 计算圆的面积
-    圆的面积公式为：S = PI*r*r，公式中r为圆的半径
+Python 计算三角形的面积
+    通过用户输入三角形三边长度，并计算三角形的面积
 '''
-
-
-def findArea(r):
-    '''定义一个方法来计算圆的面积'''
-
-    PI = 3.142
-    return PI * r * r
-
-
 if __name__ == "__main__":
-    # 调用方法
-    print("圆的面积为：%.6f" % findArea(5))
+    a = float(input("输入三角形第一边长："))
+    b = float(input("输入三角形第二边长："))
+    c = float(input("输入三角形第三边长："))
+
+    # 计算半周长
+    s = (a + b + c) / 2
+
+    # 计算面积
+    area = (s * (s - a) * (s - b) * (s - c)) ** 0.5
+    print("三角形面积为：%0.2f" % area)

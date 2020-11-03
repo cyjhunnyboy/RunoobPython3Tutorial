@@ -2,11 +2,8 @@
 # author: chenyongjun
 
 '''
-Python 平方根
-    通过用户输入一个数字，并计算这个数字的平方根
+Python 数字求和
+    通过用户输入两个数字，并计算两个数字之和
 '''
 if __name__ == "__main__":
-    # 正数的平方根
-    num = float(input("请输入一个数字："))
-    num_sqrt = num ** 0.5
-    print("%0.3f的平方根为：%0.3f" % (num, num_sqrt))
+    print("两数之和为：%.1f" % (float(input("输入第一个数字：")) + float(input("输入第二个数字："))))
