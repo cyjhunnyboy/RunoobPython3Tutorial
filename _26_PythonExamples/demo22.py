@@ -7,11 +7,11 @@ Python 输出指定范围内的素数
 '''
 
 
-def prime(lower, uper):
+def prime(lower, upper):
     """输出指定范围内的素数"""
 
     # 素数大于1
-    for num in range(lower, uper + 1):
+    for num in range(lower, upper + 1):
         # 素数大于1
         if num > 1:
             for i in (2, num):

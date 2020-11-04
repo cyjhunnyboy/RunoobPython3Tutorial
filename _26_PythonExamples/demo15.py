@@ -7,7 +7,10 @@ Python if 语句
     优化增加输入字符的判断以及异常输出
 '''
 
-if __name__ == "__main__":
+
+def assure():
+    """判断数字是正数、负数或零"""
+
     while True:
         try:
             # 用户输入数字
@@ -23,3 +26,8 @@ if __name__ == "__main__":
             break
         except ValueError:
             print("输入无效，需要输入一个数字。")
+
+
+if __name__ == "__main__":
+    # 判断该数字是正数、负数或零
+    assure()
