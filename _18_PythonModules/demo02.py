@@ -17,5 +17,3 @@ import _18_PythonModules.tool.support
 if __name__ == "__main__":
     # 现在可以调用模块里包含的函数了
     support.print_func("Runoob")
-
-

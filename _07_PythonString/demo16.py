@@ -18,7 +18,7 @@ Python3 index()方法
 if __name__ == "__main__":
     str1 = "Runoob example....wow!!!"
     str2 = "exam"
-    
+
     print(str1.index(str2))
     print(str1.index(str2, 5))
     # 找不到子字符串，抛出异常

@@ -16,6 +16,7 @@ Python map() 函数
     Python 3.x 返回迭代器
 '''
 
+
 # 计算平方数
 def square(x):
     return x ** 2

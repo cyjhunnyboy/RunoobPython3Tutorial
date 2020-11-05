@@ -27,4 +27,3 @@ except pymysql.Error:
 
 # 关闭数据库连接
 db.close()
-

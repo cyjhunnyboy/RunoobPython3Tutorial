@@ -32,7 +32,7 @@ try:
         income = row[4]
         # 打印结果
         print("first_name=%s, last_name=%s, age=%d, sex=%s, income=%d" % \
-
+ \
               (first_name, last_name, age, sex, income))
 except pymysql.Error:
     print("Error: unable to fetch data")

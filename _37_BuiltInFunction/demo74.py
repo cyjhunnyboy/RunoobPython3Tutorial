@@ -18,6 +18,6 @@ if __name__ == "__main__":
     # 数字
     print(hash(1))
     # 集合
-    print(hash(str([1,2,3])))
+    print(hash(str([1, 2, 3])))
     # 字典
-    print(hash(str(sorted({'1':1}))))
+    print(hash(str(sorted({'1': 1}))))

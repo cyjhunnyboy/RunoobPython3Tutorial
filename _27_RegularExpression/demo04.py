@@ -32,4 +32,3 @@ if searchObj:
     print("searchObj.group(2) : ", searchObj.group(2))
 else:
     print("Nothing found!!")
-

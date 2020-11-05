@@ -20,4 +20,3 @@ class TestStatisticalFunctions(unittest.TestCase):
 if __name__ == "__main__":
     # Calling from the command line invokes all tests
     unittest.main()
-

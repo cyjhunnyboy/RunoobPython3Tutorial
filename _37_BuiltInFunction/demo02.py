@@ -22,4 +22,4 @@ if __name__ == "__main__":
     print("e的绝对值是：", abs(e))
     # TypeError: can't convert complex to float
     # fabs 无法将复数转换为浮点型
-    print ("e的绝对值是：", math.fabs(e))
+    print("e的绝对值是：", math.fabs(e))

@@ -19,7 +19,7 @@ import random
 
 if __name__ == "__main__":
     list1 = [20, 16, 10, 5]
-    
+
     random.shuffle(list1)
     print("随机排序列表：", list1)
 

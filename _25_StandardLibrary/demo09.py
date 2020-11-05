@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 from urllib.request import urlopen
+
 """
 访问 互联网
 有几个模块用于访问互联网以及处理网络通信协议。其中最简单的两个是用于处理从 urls 接收的数据的 urllib.request

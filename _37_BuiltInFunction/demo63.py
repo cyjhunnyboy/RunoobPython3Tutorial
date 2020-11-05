@@ -26,9 +26,9 @@ if __name__ == "__main__":
     # <zip object at 0x0000005D2E04F888>
     print(zipped)
     # list() 转换为列表
-    print(list(zipped) )
+    print(list(zipped))
     # 元素个数与最短的列表一致
-    print(list(zip(a,c)))
+    print(list(zip(a, c)))
     # 与 zip 相反，zip(*) 可理解为解压，返回二维矩阵式
     a1, a2 = zip(*zip(a, b))
     print(list(a1))

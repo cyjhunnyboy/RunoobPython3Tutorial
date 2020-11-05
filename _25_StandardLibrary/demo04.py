@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 import sys
+
 """
 命令行参数
 通用工具脚本经常调用命令行参数。这些命令行参数以链表形式存储于 sys 模块的 argv 变量。

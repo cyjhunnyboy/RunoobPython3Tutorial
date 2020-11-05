@@ -22,4 +22,5 @@ def average(values):
 
 
 import doctest
-doctest.testmod()   # 自动验证嵌入测试
+
+doctest.testmod()  # 自动验证嵌入测试
