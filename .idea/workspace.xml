@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 基础语法" />
+    <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 基本数据类型（Set集合）" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,14 +38,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_05_Python3BasicDataType" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\project\RunoobPython3Tutorial\_05_Python3BasicDataType" />
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_01_Python3Tutorial" />
-      <recent name="E:\Python\project\RunoobPython3Tutorial\_05_Python3BasicDataType" />
     </key>
   </component>
   <component name="RunManager" selected="Python.demo08">
@@ -200,119 +200,7 @@
       <workItem from="1629358291894" duration="1153000" />
       <workItem from="1630372877092" duration="2148000" />
       <workItem from="1630375056665" duration="1286000" />
-      <workItem from="1630382518717" duration="5950000" />
-    </task>
-    <task id="LOCAL-00001" summary="第一个Python3.x程序">
-      <created>1624264516161</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1624264516161</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Python3 简介">
-      <created>1624266777435</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1624266777435</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Python3 环境搭建">
-      <created>1624266893245</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1624266893245</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Python3 基础语法：编码、标识符">
-      <created>1624266951767</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1624266951767</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Python3 基础语法：python保留字">
-      <created>1624267008871</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267008871</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Python3 基础语法：注释">
-      <created>1624267186586</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267186586</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Python3 基础语法：注释">
-      <created>1624267207528</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267207528</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Python3 基础语法：行与缩进">
-      <created>1624267238189</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267238189</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Python3 基础语法：多行语句">
-      <created>1624267296028</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267296028</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Python3 教程">
-      <created>1624267338563</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267338563</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Python3 简介">
-      <created>1624267442475</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267442475</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Python3 基础语法">
-      <created>1624267464406</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267464406</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Python3 环境搭建">
-      <created>1624267496122</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267496122</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Python3 基础语法：数字类型（字符串）">
-      <created>1624267616900</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267616900</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Python3 基础语法：空行">
-      <created>1624267662020</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267662020</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Python3 基础语法：多行语句构成代码组">
-      <created>1624267701781</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1624267701781</updated>
+      <workItem from="1630382518717" duration="6320000" />
     </task>
     <task id="LOCAL-00017" summary="Python3 基础语法：print输出">
       <created>1624267726337</created>
@@ -545,7 +433,119 @@
       <option name="project" value="LOCAL" />
       <updated>1630397771015</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Python 3 基本数据类型">
+      <created>1630397934717</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397934717</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Python 3 基本数据类型">
+      <created>1630397955438</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397955438</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Python 3 基本数据类型（多个变量赋值）">
+      <created>1630397977233</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397977233</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Python 3 基本数据类型（标准数据类型）">
+      <created>1630397995420</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397995420</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Python 3 基本数据类型（Number数字）">
+      <created>1630398010033</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398010033</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Python 3 基本数据类型（Number数字）">
+      <created>1630398017989</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398017989</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Python 3 基本数据类型（Number数字）">
+      <created>1630398026324</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398026324</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Python 3 基本数据类型（Number数字）">
+      <created>1630398031818</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398031818</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Python 3 基本数据类型（Number数字）">
+      <created>1630398038300</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398038300</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Python 3 基本数据类型（String字符串）">
+      <created>1630398055922</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398055922</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Python 3 基本数据类型（String字符串）">
+      <created>1630398061307</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398061307</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Python 3 基本数据类型（String字符串）">
+      <created>1630398070613</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398070613</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Python 3 基本数据类型（list列表）">
+      <created>1630398109892</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398109892</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Python 3 基本数据类型（Tuple元组）">
+      <created>1630398141003</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398141003</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Python 3 基本数据类型（Set集合）">
+      <created>1630398153031</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398153031</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Python 3 基本数据类型（Set集合）">
+      <created>1630398158571</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1630398158571</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,14 +564,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python3 基础语法：空行" />
-    <MESSAGE value="Python3 基础语法：多行语句构成代码组" />
-    <MESSAGE value="Python3 基础语法：print输出" />
-    <MESSAGE value="Python3 基础语法：import与from...import" />
-    <MESSAGE value="Python3 基本数据类型" />
-    <MESSAGE value="Python3 基本数据类型：多个变量赋值" />
-    <MESSAGE value="Python3 基本数据类型：标准数据类型" />
-    <MESSAGE value="Python3 基本数据类型：标准数据类型（Number数字）" />
     <MESSAGE value="Python3 基本数据类型：标准数据类型（String字符串）" />
     <MESSAGE value="Python3 基本数据类型：标准数据类型（List列表）" />
     <MESSAGE value="Python3 基本数据类型：标准数据类型（Set集合）" />
@@ -589,7 +581,15 @@
     <MESSAGE value="Python 3 基础语法（print输出）" />
     <MESSAGE value="Python 3 基础语法（import与from...import）" />
     <MESSAGE value="Python 3 基础语法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python 3 基础语法" />
+    <MESSAGE value="Python 3 基本数据类型" />
+    <MESSAGE value="Python 3 基本数据类型（多个变量赋值）" />
+    <MESSAGE value="Python 3 基本数据类型（标准数据类型）" />
+    <MESSAGE value="Python 3 基本数据类型（Number数字）" />
+    <MESSAGE value="Python 3 基本数据类型（String字符串）" />
+    <MESSAGE value="Python 3 基本数据类型（list列表）" />
+    <MESSAGE value="Python 3 基本数据类型（Tuple元组）" />
+    <MESSAGE value="Python 3 基本数据类型（Set集合）" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 3 基本数据类型（Set集合）" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1630394744314">
