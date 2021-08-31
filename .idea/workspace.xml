@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 介绍">
-      <change afterPath="$PROJECT_DIR$/_03_Python3InvironmentBuild/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_Python3InvironmentBuild/demo01.py" afterDir="false" />
-    </list>
+    <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 基础语法" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +200,7 @@
       <workItem from="1629358291894" duration="1153000" />
       <workItem from="1630372877092" duration="2148000" />
       <workItem from="1630375056665" duration="1286000" />
-      <workItem from="1630382518717" duration="5582000" />
+      <workItem from="1630382518717" duration="5950000" />
     </task>
     <task id="LOCAL-00001" summary="第一个Python3.x程序">
       <created>1624264516161</created>
@@ -457,7 +454,98 @@
       <option name="project" value="LOCAL" />
       <updated>1630397385513</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Python 3 环境搭建">
+      <created>1630397427865</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397427865</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Python 3 基础语法（标识符）">
+      <created>1630397558681</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397558681</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Python 3 基础语法（保留字）">
+      <created>1630397575664</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397575664</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Python 3 基础语法（注释）">
+      <created>1630397598849</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397598849</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Python 3 基础语法（行与缩进）">
+      <created>1630397617785</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397617785</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Python 3 基础语法（多行语句）">
+      <created>1630397629393</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397629393</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Python 3 基础语法（数字类型、字符串）">
+      <created>1630397682972</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397682972</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Python 3 基础语法（空行）">
+      <created>1630397697976</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397697976</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Python 3 基础语法（多行语句构成代码组）">
+      <created>1630397712971</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397712971</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Python 3 基础语法（print输出）">
+      <created>1630397725637</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397725637</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Python 3 基础语法（import与from...import）">
+      <created>1630397749045</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397749045</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Python 3 基础语法">
+      <created>1630397758467</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397758467</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Python 3 基础语法">
+      <created>1630397771015</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1630397771015</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,17 +564,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一个Python3.x程序" />
-    <MESSAGE value="Python3 基础语法：编码、标识符" />
-    <MESSAGE value="Python3 基础语法：python保留字" />
-    <MESSAGE value="Python3 基础语法：注释" />
-    <MESSAGE value="Python3 基础语法：行与缩进" />
-    <MESSAGE value="Python3 基础语法：多行语句" />
-    <MESSAGE value="Python3 教程" />
-    <MESSAGE value="Python3 简介" />
-    <MESSAGE value="Python3 基础语法" />
-    <MESSAGE value="Python3 环境搭建" />
-    <MESSAGE value="Python3 基础语法：数字类型（字符串）" />
     <MESSAGE value="Python3 基础语法：空行" />
     <MESSAGE value="Python3 基础语法：多行语句构成代码组" />
     <MESSAGE value="Python3 基础语法：print输出" />
@@ -500,7 +577,19 @@
     <MESSAGE value="Python3 基本数据类型：标准数据类型（Set集合）" />
     <MESSAGE value="Python 3 教程" />
     <MESSAGE value="Python 3 介绍" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python 3 介绍" />
+    <MESSAGE value="Python 3 环境搭建" />
+    <MESSAGE value="Python 3 基础语法（标识符）" />
+    <MESSAGE value="Python 3 基础语法（保留字）" />
+    <MESSAGE value="Python 3 基础语法（注释）" />
+    <MESSAGE value="Python 3 基础语法（行与缩进）" />
+    <MESSAGE value="Python 3 基础语法（多行语句）" />
+    <MESSAGE value="Python 3 基础语法（数字类型、字符串）" />
+    <MESSAGE value="Python 3 基础语法（空行）" />
+    <MESSAGE value="Python 3 基础语法（多行语句构成代码组）" />
+    <MESSAGE value="Python 3 基础语法（print输出）" />
+    <MESSAGE value="Python 3 基础语法（import与from...import）" />
+    <MESSAGE value="Python 3 基础语法" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 3 基础语法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1630394744314">
@@ -511,10 +600,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630397109085" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1630397391238">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1630397782550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630397391238" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630397782550" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1611825504474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BasicDataType" />
