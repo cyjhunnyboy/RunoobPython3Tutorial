@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python List list()方法
             描述：
@@ -13,7 +13,7 @@
                 list -- 要转换为列表的元组
             返回值：
                 返回列表
-'''
+"""
 if __name__ == "__main__":
     aTuple = (123, "Google", "Runoob", "Taobao")
     list1 = list(aTuple)

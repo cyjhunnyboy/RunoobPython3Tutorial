@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python oct()函数
             描述：
@@ -12,7 +12,7 @@
                     x -- 整数
             返回值：
                 返回8进制字符串
-'''
+"""
 if __name__ == "__main__":
     print(oct(10))
     print(oct(20))

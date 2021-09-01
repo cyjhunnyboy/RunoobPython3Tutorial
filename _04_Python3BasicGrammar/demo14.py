@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基础语法
         1、多个语句构成代码组
             缩进相同的一组语句构成一个代码块，我们称之代码组。
@@ -15,7 +15,7 @@
                    suite
                 else :
                    suite
-'''
+"""
 if __name__ == "__main__":
     num = 12
     if num % 2 == 0:

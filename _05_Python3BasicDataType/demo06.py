@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、Number（数字）
             isinstance和type区别就是:
@@ -9,7 +9,7 @@
                 isinstance()会认为子类是一种父类类型。
                 注意：在Python2中是没有布尔型的，它用数字0表示False，用1表示True。
                 到Python3中，把True和False定义成关键字了，但它们的值还是1和0，它们可以和数字相加。
-'''
+"""
 
 
 class A:

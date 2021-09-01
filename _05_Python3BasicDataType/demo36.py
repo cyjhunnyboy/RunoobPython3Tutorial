@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python hex()函数
             描述：
@@ -12,7 +12,7 @@
                     x -- 10进制整数
             返回值：
                 返回16进制数，以字符串形式表示
-'''
+"""
 if __name__ == "__main__":
     print(hex(255))
     print(hex(-42))

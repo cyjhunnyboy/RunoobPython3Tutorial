@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基础语法
         1、数字(Number)类型
             Python中数字有四种类型：整数、布尔型、浮点数和复数。
@@ -9,7 +9,7 @@
             bool(布尔), 如 True。
             float(浮点数), 如 1.23、3E-2
             complex(复数), 如 1 + 2j、 1.1 + 2.2j
-'''
+"""
 if __name__ == "__main__":
     # 整数
     int_1 = 100

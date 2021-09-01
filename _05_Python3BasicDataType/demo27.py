@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python repr()函数
             描述：
@@ -12,7 +12,7 @@
                     object -- 对象
             返回值：
                 返回一个对象的string格式
-'''
+"""
 if __name__ == "__main__":
     s = "RUNOOB"
     print(repr(s))

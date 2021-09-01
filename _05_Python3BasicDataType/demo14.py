@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、List（列表）
             与Python字符串不一样的是，列表中的元素是可以改变的
-'''
+"""
 if __name__ == "__main__":
     # 与Python字符串不一样的是，列表中的元素是可以改变的：
     a = [1, 2, 3, 4, 5, 6]

@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、标准数据类型
             Python3中有六个标准的数据类型：
@@ -14,7 +14,7 @@
             Python3的六个标准数据类型中：
                 不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
                 可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
-'''
+"""
 if __name__ == "__main__":
     # 数字
     num = 150

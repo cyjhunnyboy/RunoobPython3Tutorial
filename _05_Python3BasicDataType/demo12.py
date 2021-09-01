@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、List（列表）
             List（列表）是Python中使用最频繁的数据类型。
@@ -14,7 +14,7 @@
                 t = ['a', 'b', 'c', 'd', 'e']
                 索引  0    1    2    3    4
                      -5   -4   -3   -2   -1
-'''
+"""
 if __name__ == "__main__":
     t = ["a", "b", "c", "d", "e"]
     print(t[1:3])

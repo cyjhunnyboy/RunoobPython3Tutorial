@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、List（列表）
             列表截取的语法格式如下：
@@ -12,7 +12,7 @@
                      -5   -4   -3   -2   -1
 
             加号+是列表连接运算符，星号*是重复操作
-'''
+"""
 if __name__ == "__main__":
     list_a = ['abcd', 786, 2.23, 'runoob', 70.2]
     tiny_list = [123, 'runoob']

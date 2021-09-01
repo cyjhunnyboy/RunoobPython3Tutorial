@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         Dictionary（字典）
             字典（dictionary）是Python中另一个非常有用的内置数据类型。
@@ -10,7 +10,7 @@
             字典是一种映射类型，字典用"{}"标识，它是一个无序的键(key):值(value)对集合。
             键(key)必须使用不可变类型。
             在同一个字典中，键(key)必须是唯一的。
-'''
+"""
 if __name__ == "__main__":
     # 创建空字典
     dict_a = dict()

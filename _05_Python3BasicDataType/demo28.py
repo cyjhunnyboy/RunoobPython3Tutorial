@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python eval()函数
             描述：
@@ -14,7 +14,7 @@
                     locals -- 变量作用域，局部命名空间，如果被提供，可以是任何映射对象。
             返回值：
                 返回表达式计算结果
-'''
+"""
 if __name__ == "__main__":
     x = 7
     print(eval("3 * 7"))

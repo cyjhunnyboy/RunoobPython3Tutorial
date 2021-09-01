@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python dict()函数
             描述：
@@ -16,7 +16,7 @@
                     iterable -- 可迭代对象。
             返回值：
                 返回一个字典
-'''
+"""
 if __name__ == "__main__":
     # 创建空字典
     print(dict())

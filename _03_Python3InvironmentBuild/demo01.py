@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 环境搭建
         1、Python3 下载
             Python官网：https://www.python.org/
@@ -11,6 +11,6 @@
             1）系统变量：PYTHON_HOME=D:\Develop\Python\Python38
             2）Path变量：%PYTHON_HOME%;%PYTHON_HOME%\Scripts;
             3）查看Python版本：python -V
-'''
+"""
 if __name__ == "__main__":
     print("Hello, World!")

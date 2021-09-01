@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python float()函数
             描述：
@@ -12,7 +12,7 @@
                     x -- 整数或字符串
             返回值：
                 返回浮点数。
-'''
+"""
 if __name__ == "__main__":
     print(float(1))
     print(float(112))

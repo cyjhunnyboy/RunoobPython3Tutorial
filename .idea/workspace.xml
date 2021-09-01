@@ -11,18 +11,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 教程">
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Python3Parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Python3Parser/demo01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_Python3Tutorial/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_Python3Tutorial/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_Python3Introduction/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_Python3Introduction/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Python3InvironmentBuild/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Python3InvironmentBuild/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_Python3BasicDataType/demo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/_05_Python3BasicDataType/demo16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +78,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_06_Python3Parser" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\project\RunoobPython3Tutorial\_06_Python3Parser" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_04_Python3BasicGrammar" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_05_Python3BasicDataType" />
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
@@ -214,91 +242,8 @@
       <workItem from="1629358291894" duration="1153000" />
       <workItem from="1630372877092" duration="2148000" />
       <workItem from="1630375056665" duration="1286000" />
-      <workItem from="1630382518717" duration="10369000" />
-    </task>
-    <task id="LOCAL-00036" summary="Python 3 介绍">
-      <created>1630397385513</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397385513</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Python 3 环境搭建">
-      <created>1630397427865</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397427865</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Python 3 基础语法（标识符）">
-      <created>1630397558681</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397558681</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Python 3 基础语法（保留字）">
-      <created>1630397575664</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397575664</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Python 3 基础语法（注释）">
-      <created>1630397598849</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397598849</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Python 3 基础语法（行与缩进）">
-      <created>1630397617785</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397617785</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Python 3 基础语法（多行语句）">
-      <created>1630397629393</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397629393</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Python 3 基础语法（数字类型、字符串）">
-      <created>1630397682972</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397682972</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Python 3 基础语法（空行）">
-      <created>1630397697976</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397697976</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Python 3 基础语法（多行语句构成代码组）">
-      <created>1630397712971</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397712971</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Python 3 基础语法（print输出）">
-      <created>1630397725637</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397725637</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Python 3 基础语法（import与from...import）">
-      <created>1630397749045</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1630397749045</updated>
+      <workItem from="1630382518717" duration="11261000" />
+      <workItem from="1630460199961" duration="2199000" />
     </task>
     <task id="LOCAL-00048" summary="Python 3 基础语法">
       <created>1630397758467</created>
@@ -559,7 +504,91 @@
       <option name="project" value="LOCAL" />
       <updated>1630400698819</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Python 3 基础语法（Number数字）">
+      <created>1630403508555</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403508555</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Python 3 基础语法（String字符串）">
+      <created>1630403527953</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403527953</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Python 3 基础语法（String字符串）">
+      <created>1630403538984</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403538984</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Python 3 基础语法（String字符串）">
+      <created>1630403547285</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403547285</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Python 3 基础语法（String字符串）">
+      <created>1630403922740</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403922740</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Python 3 基础语法（空行、等待用户输入）">
+      <created>1630403940610</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403940610</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Python 3 基础语法（同一行显示多条语句）">
+      <created>1630403956582</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403956582</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Python 3 基础语法（多个语句构成代码组）">
+      <created>1630403976608</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403976608</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Python 3 基础语法（print输出）">
+      <created>1630403991065</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1630403991065</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Python 3 基础语法（import与from...import）">
+      <created>1630404011763</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1630404011763</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Python 3 基础语法（import与from...import）">
+      <created>1630404017378</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1630404017378</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Python 3 教程">
+      <created>1630404025878</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1630404025878</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,13 +607,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python 3 基本数据类型（多个变量赋值）" />
-    <MESSAGE value="Python 3 基本数据类型（标准数据类型）" />
-    <MESSAGE value="Python 3 基本数据类型（Number数字）" />
-    <MESSAGE value="Python 3 基本数据类型（String字符串）" />
-    <MESSAGE value="Python 3 基本数据类型（list列表）" />
-    <MESSAGE value="Python 3 基本数据类型（Tuple元组）" />
-    <MESSAGE value="Python 3 基本数据类型（Set集合）" />
     <MESSAGE value="Python 3 基本数据类型（Dictionary字典）" />
     <MESSAGE value="Python 3 基本数据类型（数据类型转换:init()函数）" />
     <MESSAGE value="Python 3 教程（第一个Python3.x程序）" />
@@ -602,38 +624,49 @@
     <MESSAGE value="Python 3 基本数据类型（数据类型转换：ord()函数）" />
     <MESSAGE value="Python 3 基本数据类型（数据类型转换：hex()函数）" />
     <MESSAGE value="Python 3 基本数据类型（数据类型转换：oct()函数）" />
+    <MESSAGE value="Python 3 基础语法（Number数字）" />
+    <MESSAGE value="Python 3 基础语法（String字符串）" />
+    <MESSAGE value="Python 3 基础语法（空行、等待用户输入）" />
+    <MESSAGE value="Python 3 基础语法（同一行显示多条语句）" />
+    <MESSAGE value="Python 3 基础语法（多个语句构成代码组）" />
+    <MESSAGE value="Python 3 基础语法（print输出）" />
+    <MESSAGE value="Python 3 基础语法（import与from...import）" />
     <MESSAGE value="Python 3 教程" />
     <option name="LAST_COMMIT_MESSAGE" value="Python 3 教程" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1630492838066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1630492838066" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1630394744314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630394744314" />
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1630402728398">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1630404083264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630402728398" />
-    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1630402728398">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630404083264" />
+    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1630404083264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630402728398" />
-    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1630402728398">
+    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630404083264" />
+    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1630404083264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630402728398" />
-    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1630402728398">
+    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630404083264" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1630404083264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630402728398" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630404083264" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1630397109085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630397109085" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1630400710449">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1630404031362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630400710449" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630404031362" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1611825504474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BasicDataType" />

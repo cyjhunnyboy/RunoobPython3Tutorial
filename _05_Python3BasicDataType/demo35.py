@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python ord()函数
             描述：
@@ -14,7 +14,7 @@
                     c -- 字符
             返回值：
                 返回值是对应的十进制整数
-'''
+"""
 if __name__ == "__main__":
     print(ord("a"))
     print(ord("b"))

@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         Set（集合）
             集合（set）是由一个或数个形态各异的大小整体组成的，构成集合的事物或对象称作元素或是成员
@@ -13,7 +13,7 @@
 
             创建格式：
             parameter = {value01,value02,...} 或者 set(value)
-'''
+"""
 if __name__ == "__main__":
     site = {"Google", "Taobao", "Runoob", "Facebook", "Zhihu", "Baidu", "Baidu"}
 

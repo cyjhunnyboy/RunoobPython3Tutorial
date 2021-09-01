@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python数据类型转换
         Python complex()函数
             描述：
@@ -15,7 +15,7 @@
                     imag -- int, long, float；
             返回值：
                 返回一个复数。
-'''
+"""
 if __name__ == "__main__":
     print(complex(1, 2))
     # 数字

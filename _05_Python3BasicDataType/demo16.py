@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 基本数据类型
         1、List（列表）
             List内置了有很多方法，例如append()、pop()等。
@@ -15,7 +15,7 @@
             2、和字符串一样，List可以被索引和切片。
             3、List可以使用+操作符进行拼接。
             4、List中的元素是可以改变的。
-'''
+"""
 
 
 def reverseWords(input):
