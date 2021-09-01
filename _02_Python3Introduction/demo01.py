@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
+"""
     Python3 简介
         1、Python简介
             Python是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。
@@ -29,6 +29,6 @@
             4）系统操作和维护：操作和维护人员的基本语言
             5）金融：定量交易、金融分析，在金融工程领域，Python不仅使用最多，而且使用最多，其重要性逐年增加。
             6）图形GUI：PyQT，WXPython，TkInter
-'''
+"""
 if __name__ == "__main__":
     print("Hello, World!")
