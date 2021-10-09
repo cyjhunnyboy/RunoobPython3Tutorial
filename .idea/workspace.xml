@@ -11,55 +11,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 教程">
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_PythonString/demo48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_PythonList/demo22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_10_PythonString" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -97,15 +71,15 @@
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\project\RunoobPython3Tutorial\_10_PythonString" />
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
+      <recent name="E:\Python\project\RunoobPython3Tutorial\_10_PythonString" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_09_PythonNumber" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_08_Python3Operator" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_07_Python3Annotation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo08 (1)">
-    <configuration name="demo04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demo05 (1)">
+    <configuration name="demo04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RunoobPython3Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +87,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_10_PythonString" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_11_PythonList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_10_PythonString/demo04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_11_PythonList/demo04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo05 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RunoobPython3Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_11_PythonList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_11_PythonList/demo05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,35 +189,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RunoobPython3Tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_09_PythonNumber" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_09_PythonNumber/demo34.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo05 (1)" />
+        <item itemvalue="Python.demo04" />
         <item itemvalue="Python.demo08 (1)" />
         <item itemvalue="Python.demo07" />
         <item itemvalue="Python.demo05" />
-        <item itemvalue="Python.demo04 (1)" />
-        <item itemvalue="Python.demo34" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +237,7 @@
       <workItem from="1632900269739" duration="2181000" />
       <workItem from="1632970415489" duration="7739000" />
       <workItem from="1633664930205" duration="5446000" />
-      <workItem from="1633743573168" duration="8379000" />
-    </task>
-    <task id="LOCAL-00055" summary="Python 3 基本数据类型（Number数字）">
-      <created>1630398017989</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1630398017989</updated>
+      <workItem from="1633743573168" duration="11675000" />
     </task>
     <task id="LOCAL-00056" summary="Python 3 基本数据类型（Number数字）">
       <created>1630398026324</created>
@@ -608,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633680999620</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Python 3 教程">
+      <created>1633768857037</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1633768857037</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,30 +629,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python 3 教程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1633767405934">
+    <state x="586" y="198" key="#Inspections" timestamp="1633772420748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1633767405934" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1633772420748" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1630394744314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630394744314" />
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1633766504924">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1633771675908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633766504924" />
-    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1633766504924">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633771675908" />
+    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1633771675908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633766504924" />
-    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1633766504924">
+    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633771675908" />
+    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1633771675908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633766504924" />
-    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1633766504924">
+    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633771675908" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1633771675908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633766504924" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633771675908" />
     <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1631785437160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -699,15 +673,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630397109085" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1633681011537">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1633768864018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633681011537" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633768864018" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1611825504474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BasicDataType" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1611824939957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1631779776838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_07_Python3Annotation" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1633771567375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_11_PythonList" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1616398731883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_Python3Introduction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo08.coverage" NAME="demo08 Coverage Results" MODIFIED="1632736439011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_08_Python3Operator" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1630402728398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
@@ -720,6 +694,7 @@
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo34.coverage" NAME="demo34 Coverage Results" MODIFIED="1633680700374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_09_PythonNumber" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo03__1_.coverage" NAME="demo03 (1) Coverage Results" MODIFIED="1616557628928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_Python3BasicDataType" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1632734947464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_08_Python3Operator" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo05__1_.coverage" NAME="demo05 (1) Coverage Results" MODIFIED="1633771675908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_11_PythonList" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04__1_.coverage" NAME="demo04 (1) Coverage Results" MODIFIED="1633747543084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_10_PythonString" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo07.coverage" NAME="demo07 Coverage Results" MODIFIED="1633749592640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_10_PythonString" />
   </component>
