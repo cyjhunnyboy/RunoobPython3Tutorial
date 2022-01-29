@@ -1,0 +1,23 @@
+# -*- coding: UTF-8 -*-
+# author: chenyongjun
+
+'''
+Python3 List list()方法
+描述：
+    list() 方法用于将元组或字符串转换为列表
+    注：元组与列表是非常类似的，区别在于元组的元素值不能修改，元组是放在括号中，列表是放于方括号中
+语法：
+    list( seq )
+    参数：
+        seq -- 要转换为列表的元组或字符串
+返回值：
+    返回列表
+'''
+if __name__ == "__main__":
+    aTuple = (123, 'Google', 'Runoob', 'Taobao')
+    list1 = list(aTuple)
+    print("列表元素：", list1)
+
+    str1 = "Hello World"
+    list2 = list(str1)
+    print("列表元素：", list2)

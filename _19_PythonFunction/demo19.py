@@ -1,0 +1,22 @@
+# -*- coding: UTF-8 -*-
+# author: chenyongjun
+
+'''
+Python3 函数
+    强制位置参数
+        Python3.8新增了一个函数形参语法/用来指明函数形参必须使用指定位置参数，不能使用关键字参数的形式。
+        在以下的例子中，形参a和b必须使用指定位置参数，c或d可以是位置形参或关键字形参，而e或f要求为关键字形参
+        def f(a, b, /, c, d, *, e, f):
+            print(a, b, c, d, e, f)
+'''
+
+
+def fi(a, b, /, c, d, *, e, f):
+    print(a, b, c, d, e, f)
+
+
+if __name__ == "__main__":
+    # e 必须使用关键字参数的形式
+    # TypeError: fi() takes 4 positional arguments but 5 positional
+    # arguments (and 1 keyword-only argument) were given
+    fi(10, 20, 30, 40, 50, f=60)
