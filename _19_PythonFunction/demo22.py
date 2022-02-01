@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
-Python3 函数
-global和nonlocal关键字
-    当内部作用域想修改外部作用域的变量时，就要用到global和nonlocal关键字了。
-'''
+"""
+    Python3 函数
+        global和nonlocal关键字
+            当内部作用域想修改外部作用域的变量时，就要用到global和nonlocal关键字了。
+"""
 num = 1
 
 

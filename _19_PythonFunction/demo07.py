@@ -1,18 +1,17 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
-Python3 函数
-参数
-    以下是调用函数时可使用的正式参数类型：
-    1、必需参数
-    2、关键字参数
-    3、默认参数
-    4、不定长参数
-关键字参数
-    关键字参数和函数调用关系紧密，函数调用使用关键字参数来确定传入的参数值。
-    使用关键字参数允许函数调用时参数的顺序与声明时不一致，因为Python解释器能够用参数名匹配参数值。
-'''
+"""
+    Python3 函数
+        参数
+            以下是调用函数时可使用的正式参数类型：
+                1、必需参数
+                2、关键字参数
+                3、默认参数
+                4、不定长参数
+        必需参数
+            必需参数须以正确的顺序传入函数。调用时的数量必须和声明时的一样
+"""
 
 
 # 可写函数说明
@@ -24,4 +23,7 @@ def printme(printstr):
 
 if __name__ == "__main__":
     # 调用printme函数，不加参数会报错
-    printme(printstr="菜鸟教程")
+    # TypeError: printme() missing 1 required
+    # positional argument: 'printstr'
+    # printme()
+    printme("Hello World!")
