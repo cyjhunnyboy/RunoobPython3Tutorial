@@ -11,32 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 教程">
-      <change afterPath="$PROJECT_DIR$/_19_PythonFunction/函数.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo18.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo20.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo21.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo22.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_19_PythonFunction/demo23.py" beforeDir="false" afterPath="$PROJECT_DIR$/_19_PythonFunction/demo23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_21_PythonModules/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_21_PythonModules/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_20_DataStructure/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/_20_DataStructure/demo10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +65,8 @@
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo22">
-    <configuration name="demo19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demo01">
+    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RunoobPython3Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_19_PythonFunction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_20_DataStructure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_19_PythonFunction/demo19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_20_DataStructure/demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo01" />
         <item itemvalue="Python.demo22" />
         <item itemvalue="Python.demo23" />
         <item itemvalue="Python.demo21" />
         <item itemvalue="Python.demo20" />
-        <item itemvalue="Python.demo19" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +234,8 @@
       <workItem from="1641633182654" duration="2225000" />
       <workItem from="1643421449639" duration="7576000" />
       <workItem from="1643532386690" duration="1285000" />
-      <workItem from="1643702247309" duration="6014000" />
-    </task>
-    <task id="LOCAL-00069" summary="Python 3 教程（第一个Python3.x程序）">
-      <created>1630400456185</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1630400456185</updated>
+      <workItem from="1643702247309" duration="6780000" />
+      <workItem from="1643791579083" duration="637000" />
     </task>
     <task id="LOCAL-00070" summary="Python 3 基本数据类型（数据类型转换：float()函数）">
       <created>1630400523279</created>
@@ -594,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643533063176</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Python 3 教程">
+      <created>1643708891436</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1643708891436</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,45 +631,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1643708771515" />
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1643708804746">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1643791857472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643708804746" />
-    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1643708804746">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643791857472" />
+    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1643791857472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643708804746" />
-    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1643708804746">
+    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643791857472" />
+    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1643791857472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643708804746" />
-    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1643708804746">
+    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643791857472" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1643791857472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643708804746" />
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1643532699500">
+    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643791857472" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1643791852744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643532699500" />
-    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1643532699500">
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643791852744" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1643791852744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643532699500" />
-    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1643532699500">
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643791852744" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1643791852744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643532699500" />
-    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1643532699500">
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643791852744" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1643791852744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643532699500" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1643533068093">
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643791852744" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1643708898493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643533068093" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643708898493" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1643702626626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1643791852728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_20_DataStructure" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1643703136543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1641633584937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_16_ControlledConditions" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo24.coverage" NAME="demo24 Coverage Results" MODIFIED="1638176140912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_14_PythonCollection" />

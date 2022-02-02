@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 # author: chenyongjun
 
-'''
-Python3 数据结构
-嵌套列表解析
-    Python的列表还可以嵌套
-'''
+"""
+    Python3 数据结构
+        嵌套列表解析
+            Python的列表还可以嵌套
+"""
 if __name__ == "__main__":
     # 展示了3X4的矩阵列表
     matrix = [
