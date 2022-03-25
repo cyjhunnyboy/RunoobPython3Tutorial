@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="61a599c7-e5a3-42d8-bd81-5de815ad63b2" name="Default Changelist" comment="Python 3 教程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_Python3BasicGrammar/demo10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_19_PythonFunction" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\project\RunoobPython3Tutorial" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Python\project\RunoobPython3Tutorial\_19_PythonFunction" />
       <recent name="E:\Python\project\RunoobPython3Tutorial" />
@@ -52,11 +55,96 @@
       <recent name="E:\Python\project\RunoobPython3Tutorial\_13_PythonDictionary" />
       <recent name="E:\Python\project\RunoobPython3Tutorial\_12_PythonTuple" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Python\project\RunoobPython3Tutorial" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.demo13">
+  <component name="RunManager" selected="Python.demo09">
+    <configuration name="demo05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RunoobPython3Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RunoobPython3Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RunoobPython3Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RunoobPython3Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RunoobPython3Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,101 +167,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RunoobPython3Tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RunoobPython3Tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RunoobPython3Tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RunoobPython3Tutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_Python3BasicGrammar/demo13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo13" />
-        <item itemvalue="Python.demo12" />
-        <item itemvalue="Python.demo11" />
-        <item itemvalue="Python.demo10" />
         <item itemvalue="Python.demo09" />
+        <item itemvalue="Python.demo08" />
+        <item itemvalue="Python.demo07" />
+        <item itemvalue="Python.demo06" />
+        <item itemvalue="Python.demo05" />
       </list>
     </recent_temporary>
   </component>
@@ -227,14 +227,18 @@
       <workItem from="1643532386690" duration="1285000" />
       <workItem from="1643702247309" duration="6780000" />
       <workItem from="1643791579083" duration="2080000" />
-      <workItem from="1643963417931" duration="1433000" />
-    </task>
-    <task id="LOCAL-00071" summary="Python 3 基本数据类型（数据类型转换：complex()函数）">
-      <created>1630400537586</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1630400537586</updated>
+      <workItem from="1643963417931" duration="4541000" />
+      <workItem from="1644801077899" duration="4092000" />
+      <workItem from="1644887127639" duration="1944000" />
+      <workItem from="1644973224370" duration="863000" />
+      <workItem from="1645081268132" duration="852000" />
+      <workItem from="1645246444345" duration="125000" />
+      <workItem from="1645496260709" duration="3400000" />
+      <workItem from="1645597433400" duration="24000" />
+      <workItem from="1645597523893" duration="1734000" />
+      <workItem from="1645666831406" duration="11158000" />
+      <workItem from="1645752116761" duration="1843000" />
+      <workItem from="1648178666259" duration="3753000" />
     </task>
     <task id="LOCAL-00072" summary="Python 3 基本数据类型（数据类型转换：str()函数）">
       <created>1630400550705</created>
@@ -572,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643792246597</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Python 3 教程">
+      <created>1643964872304</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1643964872305</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,22 +634,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1643708771515" />
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1643964829706">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom" timestamp="1648200472580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643964829706" />
-    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1643964829705">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648200472580" />
+    <state width="1877" height="145" key="GridCell.Tab.0.center" timestamp="1648200472580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643964829705" />
-    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1643964829705">
+    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648200472580" />
+    <state width="1877" height="145" key="GridCell.Tab.0.left" timestamp="1648200472580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643964829705" />
-    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1643964829706">
+    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648200472580" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right" timestamp="1648200472580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643964829706" />
+    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648200472580" />
     <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1643791852744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -655,47 +666,51 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643791852744" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1643792256338">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1648178845975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643792256338" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648178845975" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1643964887234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643964887234" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1643791852728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_20_DataStructure" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1643703136543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1641633584937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_16_ControlledConditions" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1648178911700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_Python3Tutorial" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1648200089744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1648179158658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_Python3Introduction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo24.coverage" NAME="demo24 Coverage Results" MODIFIED="1638176140912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_14_PythonCollection" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo27.coverage" NAME="demo27 Coverage Results" MODIFIED="1638177180397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_14_PythonCollection" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1643964483518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1645687717822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_Python3BasicDataType" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo18.coverage" NAME="demo18 Coverage Results" MODIFIED="1643708566516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo13__1_.coverage" NAME="demo13 (1) Coverage Results" MODIFIED="1634024710188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_13_PythonDictionary" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo25.coverage" NAME="demo25 Coverage Results" MODIFIED="1638176421144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_14_PythonCollection" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo22.coverage" NAME="demo22 Coverage Results" MODIFIED="1643708865871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo12__1_.coverage" NAME="demo12 (1) Coverage Results" MODIFIED="1634024676872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_13_PythonDictionary" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo34.coverage" NAME="demo34 Coverage Results" MODIFIED="1633680700374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_09_PythonNumber" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1643703031850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1648180491979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo19.coverage" NAME="demo19 Coverage Results" MODIFIED="1643708619614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1643964845042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo16.coverage" NAME="demo16 Coverage Results" MODIFIED="1643708377022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo07.coverage" NAME="demo07 Coverage Results" MODIFIED="1643964395859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1643707739830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1643964580700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo16.coverage" NAME="demo16 Coverage Results" MODIFIED="1643965002823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo07.coverage" NAME="demo07 Coverage Results" MODIFIED="1648200226235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1643964935389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1645690492727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_Python3BasicDataType" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo23.coverage" NAME="demo23 Coverage Results" MODIFIED="1643708859941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo17.coverage" NAME="demo17 Coverage Results" MODIFIED="1634718072559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_14_PythonCollection" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo08.coverage" NAME="demo08 Coverage Results" MODIFIED="1643964422652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__2_.coverage" NAME="demo01 (2) Coverage Results" MODIFIED="1620810517396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_Python3Tutorial" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo17.coverage" NAME="demo17 Coverage Results" MODIFIED="1643965032919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo08.coverage" NAME="demo08 Coverage Results" MODIFIED="1648200436878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo20.coverage" NAME="demo20 Coverage Results" MODIFIED="1643708774471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo09.coverage" NAME="demo09 Coverage Results" MODIFIED="1643964454948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo05.coverage" NAME="demo05 Coverage Results" MODIFIED="1643964042743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo01__2_.coverage" NAME="demo01 (2) Coverage Results" MODIFIED="1648180386928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo09.coverage" NAME="demo09 Coverage Results" MODIFIED="1648200472570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo05.coverage" NAME="demo05 Coverage Results" MODIFIED="1648200147854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo08__1_.coverage" NAME="demo08 (1) Coverage Results" MODIFIED="1633766504909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_10_PythonString" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo06__1_.coverage" NAME="demo06 (1) Coverage Results" MODIFIED="1643448452730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_17_LoopingStatements" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1643964820876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo06.coverage" NAME="demo06 Coverage Results" MODIFIED="1643964088327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1643708286044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo06.coverage" NAME="demo06 Coverage Results" MODIFIED="1648200180290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1643964951871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo21.coverage" NAME="demo21 Coverage Results" MODIFIED="1643708804740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_19_PythonFunction" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo03__1_.coverage" NAME="demo03 (1) Coverage Results" MODIFIED="1641633972805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_16_ControlledConditions" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo05__1_.coverage" NAME="demo05 (1) Coverage Results" MODIFIED="1633771675908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_11_PythonList" />
-    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1643532628490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_18_IteratorsAndGenerators" />
+    <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1648180528832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_Python3BasicGrammar" />
     <SUITE FILE_PATH="coverage/RunoobPython3Tutorial$demo04__1_.coverage" NAME="demo04 (1) Coverage Results" MODIFIED="1633921273778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_12_PythonTuple" />
   </component>
 </project>
